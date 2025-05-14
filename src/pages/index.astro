@@ -1,5 +1,12 @@
 ---
+import "../styles/global.css";
 
+import feed from "../feed.json";
+
+import SpotifyLink from "../components/SpotifyLink.astro";
+import YoutubeLink from "../components/YoutubeLink.astro";
+
+import Episode from "../components/Episode.astro";
 ---
 
 <html lang="en">
@@ -8,9 +15,17 @@
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
+		<title>The Standup</title>
 	</head>
 	<body>
-		<h1>Astro</h1>
+		<h1>The Standup</h1>
+		<p>A Podcast where Prime and Teej talk to Casey (and also, unfortunately) Trash.</p>
+		<div class="flex gap-4 m-4 border border-white p-4">
+			<SpotifyLink iconSize={24} />
+			<YoutubeLink iconSize={24} />
+		</div>
+		{feed.items.map(item => (
+			<Episode image={item.itunes.image} title={item.title!} description={item.summary!} />
+		))}
 	</body>
 </html>

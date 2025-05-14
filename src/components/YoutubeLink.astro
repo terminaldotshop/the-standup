@@ -1,0 +1,17 @@
+---
+import YouTube from '../assets/icons/youtube.svg';
+
+interface Props {
+	iconSize: number;
+}
+
+const { iconSize } = Astro.props;
+const link = "https://www.youtube.com/playlist?list=PL2Fq-K0QdOQiJpufsnhEd1z3xOv2JMHuk";
+
+---
+
+<div>
+	<a href={link} target="_blank" rel="noopener noreferrer">
+		<YouTube width={iconSize} height={iconSize} fill="#FF0000" />
+	</a>
+</div>

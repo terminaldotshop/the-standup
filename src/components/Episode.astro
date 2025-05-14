@@ -1,0 +1,23 @@
+---
+export interface Props {
+  image: string;       // cover art URL
+  title: string;       // episode title
+  description: string; // short summary
+}
+
+const { image, title, description } = Astro.props;
+---
+
+<article class="group relative w-full max-w-md overflow-hidden rounded-2xl bg-white/5 p-4 shadow-lg backdrop-blur">
+  <img
+    src={image}
+    alt={title}
+    class="h-48 w-full rounded-xl object-cover transition-transform duration-300 group-hover:scale-105"
+    loading="lazy"
+  />
+
+  <div class="mt-4 space-y-2">
+    <h2 class="text-lg font-semibold text-white/90 group-hover:text-white">{title}</h2>
+    <p class="text-sm text-white/60 line-clamp-3">{description}</p>
+  </div>
+</article>

@@ -1,0 +1,17 @@
+---
+import Spotify from '../assets/icons/spotify.svg';
+
+interface Props {
+	iconSize: number;
+}
+
+const { iconSize } = Astro.props;
+const link = "https://open.spotify.com/show/01A062kejnXFkJE01bjN5J";
+
+---
+
+<div>
+	<a href={link} target="_blank" rel="noopener noreferrer">
+		<Spotify width={iconSize} height={iconSize} fill="#1ED760" />
+	</a>
+</div>

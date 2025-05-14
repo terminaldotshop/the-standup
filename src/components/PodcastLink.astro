@@ -1,0 +1,17 @@
+---
+
+interface Props {
+	icon: string;
+	link: string;
+}
+
+const { icon, link } = Astro.props;
+
+---
+
+<div>
+	<div>
+		<a href={link} target="_blank" rel="noopener noreferrer">
+		</a>
+	</div>
+</div>
