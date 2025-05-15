@@ -1,23 +1,21 @@
 ---
 export interface Props {
-  image: string;       // cover art URL
+  image: string;       // cover art URL (kept for compatibility)
   title: string;       // episode title
   description: string; // short summary
+  season: string;      // season number
+  episode: string;     // episode number
 }
 
-const { image, title, description } = Astro.props;
+const { title, description, season, episode } = Astro.props;
 ---
 
-<article class="group relative w-full max-w-md overflow-hidden rounded-2xl bg-white/5 p-4 shadow-lg backdrop-blur">
-  <img
-    src={image}
-    alt={title}
-    class="h-48 w-full rounded-xl object-cover transition-transform duration-300 group-hover:scale-105"
-    loading="lazy"
-  />
-
-  <div class="mt-4 space-y-2">
-    <h2 class="text-lg font-semibold text-white/90 group-hover:text-white">{title}</h2>
-    <p class="text-sm text-white/60 line-clamp-3">{description}</p>
+<article class="group relative w-full max-w-2xl overflow-hidden rounded-2xl bg-white/5 p-4 shadow-lg backdrop-blur">
+  <div class="flex flex-col space-y-2">
+    <div class="flex items-baseline gap-2">
+      <span class="text-xs text-white/50">S{season}E{episode}</span>
+      <h2 class="text-lg font-semibold text-white/90 group-hover:text-white">{title}</h2>
+    </div>
+    <p class="text-xs text-white/60 line-clamp-2">{description}</p>
   </div>
 </article>

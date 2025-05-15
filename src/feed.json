@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "title": "How BAD is Test Driven Development?",
+      "link": "https://assets.flightcast.com/track-v2/01JV87T0FQ2BVNK7S3ENXJJ2ZR.mp3",
+      "pubDate": "Wed, 14 May 2025 04:00:00 -0000",
+      "content:encoded": "<p>The gang discusses Test Driven Development and laughs a lot. As usual ;)</p><p></p><p>Don’t forget, ssh terminal.shop</p>",
+      "content:encodedSnippet": "The gang discusses Test Driven Development and laughs a lot. As usual ;)\n\nDon’t forget, ssh terminal.shop",
+      "enclosure": {
+        "length": "42962578",
+        "type": "audio/mpeg",
+        "url": "https://assets.flightcast.com/track-v2/01JV87T0FQ2BVNK7S3ENXJJ2ZR.mp3"
+      },
+      "content": "The gang discusses Test Driven Development and laughs a lot. As usual ;)\n\n\n\nDon’t forget, ssh terminal.shop",
+      "contentSnippet": "The gang discusses Test Driven Development and laughs a lot. As usual ;)\n\n\n\nDon’t forget, ssh terminal.shop",
+      "guid": "flightcast:01JV87T0FQ7SD2X5R4STGH1JHM",
+      "isoDate": "2025-05-14T04:00:00.000Z",
+      "itunes": {
+        "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
+        "episode": "6",
+        "season": "1"
+      }
+    },
+    {
       "title": "Making a Video Game GOOD!",
       "link": "https://assets.flightcast.com/track-v2/01JV2JC5PD4PGJP1RS75CR9ZT8.mp3",
       "pubDate": "Mon, 12 May 2025 04:00:00 -0000",
@@ -124,7 +145,7 @@
   "generator": "Flightcast RSS Feed Generator",
   "link": "https://rss.flightcast.com/pmgqiszts7kfhopzaq8el6yw",
   "language": "en-us",
-  "lastBuildDate": "Mon, 12 May 2025 16:58:44 -0000",
+  "lastBuildDate": "Wed, 14 May 2025 20:29:35 -0000",
   "docs": "https://rss.flightcast.com/pmgqiszts7kfhopzaq8el6yw",
   "itunes": {
     "owner": {

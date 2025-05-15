@@ -1,17 +1,16 @@
 ---
-import Spotify from '../assets/icons/spotify.svg';
+import Apple from "../assets/icons/Apple_logo_black.svg";
 
 interface Props {
 	iconSize: number;
 }
 
 const { iconSize } = Astro.props;
-const link = "https://open.spotify.com/show/01A062kejnXFkJE01bjN5J";
-
+const link = "https://placeholder-for-apple-music.com";
 ---
 
 <div class="flex items-center justify-center" style={`width: ${iconSize}px; height: ${iconSize}px;`}>
 	<a href={link} target="_blank" rel="noopener noreferrer">
-		<Spotify width={iconSize} height={iconSize} fill="#1ED760" />
+		<Apple width={iconSize} height={iconSize} stroke="white" fill="white" class="relative" >
 	</a>
 </div>

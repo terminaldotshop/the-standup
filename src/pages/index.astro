@@ -5,8 +5,11 @@ import feed from "../feed.json";
 
 import SpotifyLink from "../components/SpotifyLink.astro";
 import YoutubeLink from "../components/YoutubeLink.astro";
+import AppleMusicLink from "../components/AppleMusicLink.astro";
 
 import Episode from "../components/Episode.astro";
+
+feed.items.sort((a, b) => +b.itunes.episode - +a.itunes.episode);
 ---
 
 <html lang="en">
@@ -19,13 +22,43 @@ import Episode from "../components/Episode.astro";
 	</head>
 	<body>
 		<h1>The Standup</h1>
-		<p>A Podcast where Prime and Teej talk to Casey (and also, unfortunately) Trash.</p>
-		<div class="flex gap-4 m-4 border border-white p-4">
-			<SpotifyLink iconSize={24} />
-			<YoutubeLink iconSize={24} />
+
+		<div
+			class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6"
+		>
+			<p class="max-w-xl w-1/2">
+				A Podcast where Prime and Teej talk to Casey (and also,
+				unfortunately) Trash.
+			</p>
+
+			<div class="flex items-center gap-3 w-1/2 justify-end">
+				<span class="text-base font-medium whitespace-nowrap"
+					>Listen on:</span
+				>
+				<div class="flex items-center gap-3">
+					<AppleMusicLink iconSize={24} />
+					<SpotifyLink iconSize={24} />
+					<YoutubeLink iconSize={24} />
+				</div>
+			</div>
 		</div>
-		{feed.items.map(item => (
-			<Episode image={item.itunes.image} title={item.title!} description={item.summary!} />
-		))}
+
+		<div class="flex flex-col md:flex-row p-4 md:gap-x-6 lg:gap-x-8">
+			<main class="flex-grow flex justify-center">
+				<div class="flex flex-col gap-4 w-full max-w-2xl">
+					{
+						feed.items.map((item) => (
+							<Episode
+								image={item.itunes.image}
+								title={item.title!}
+								description={item.content!}
+								season={item.itunes.season!}
+								episode={item.itunes.episode!}
+							/>
+						))
+					}
+				</div>
+			</main>
+		</div>
 	</body>
 </html>

@@ -1,0 +1,32 @@
+# .github/workflows/update.yml
+name: Check for RSS updates
+
+on:
+  schedule:
+    - cron: '1 * * * *'        # run at minute 1 of every hour
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write          # needed for pushing commits
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - name: Run update script
+        run: bun run update.ts
+
+      - name: Auto-commit & push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update RSS feed"
+          commit_author:  "GitHub Actions <actions@github.com>"
+
