@@ -1,6 +1,28 @@
 {
   "items": [
     {
+      "title": "Prime installs Arch?",
+      "link": "https://assets.flightcast.com/track-v2/01JVFA97QQKJ0C50XXSPRSS5S1.mp3",
+      "pubDate": "Mon, 19 May 2025 04:00:00 -0000",
+      "content:encoded": "<p>The gang talks arch, linux, windows, and of course, your favorite goofs &amp; gaffes.</p><p></p><p>ssh terminal.shop, btw</p>",
+      "content:encodedSnippet": "The gang talks arch, linux, windows, and of course, your favorite goofs & gaffes.\n\nssh terminal.shop, btw",
+      "enclosure": {
+        "length": "46314611",
+        "type": "audio/mpeg",
+        "url": "https://assets.flightcast.com/track-v2/01JVFA97QQKJ0C50XXSPRSS5S1.mp3"
+      },
+      "content": "The gang talks arch, linux, windows, and of course, your favorite goofs & gaffes.\n\n\n\nssh terminal.shop, btw",
+      "contentSnippet": "The gang talks arch, linux, windows, and of course, your favorite goofs & gaffes.\n\n\n\nssh terminal.shop, btw",
+      "guid": "flightcast:01JVFA97QQGZBWHJR72PY86P5V",
+      "isoDate": "2025-05-19T04:00:00.000Z",
+      "itunes": {
+        "duration": "48:14",
+        "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
+        "episode": "7",
+        "season": "1"
+      }
+    },
+    {
       "title": "How BAD is Test Driven Development?",
       "link": "https://assets.flightcast.com/track-v2/01JV87T0FQ2BVNK7S3ENXJJ2ZR.mp3",
       "pubDate": "Wed, 14 May 2025 04:00:00 -0000",
@@ -18,29 +40,6 @@
       "itunes": {
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
         "episode": "6",
-        "season": "1"
-      }
-    },
-    {
-      "title": "Making a Video Game GOOD!",
-      "link": "https://assets.flightcast.com/track-v2/01JV2JC5PD4PGJP1RS75CR9ZT8.mp3",
-      "pubDate": "Mon, 12 May 2025 04:00:00 -0000",
-      "content:encoded": "<p>This time we have Casey and Prime talking about how to make a video game good. It’s a bit of a departure from the normal format, but we think you’ll enjoy it :)</p>",
-      "content:encodedSnippet": "This time we have Casey and Prime talking about how to make a video game good. It’s a bit of a departure from the normal format, but we think you’ll enjoy it :)",
-      "enclosure": {
-        "length": "30909889",
-        "type": "audio/mpeg",
-        "url": "https://assets.flightcast.com/track-v2/01JV2JC5PD4PGJP1RS75CR9ZT8.mp3"
-      },
-      "content": "This time we have Casey and Prime talking about how to make a video game good. It’s a bit of a departure from the normal format, but we think you’ll enjoy it :)",
-      "contentSnippet": "This time we have Casey and Prime talking about how to make a video game good. It’s a bit of a departure from the normal format, but we think you’ll enjoy it :)",
-      "guid": "flightcast:01JV2JC5PDGR828T1564B9R18H",
-      "isoDate": "2025-05-12T04:00:00.000Z",
-      "itunes": {
-        "author": "The Standup",
-        "duration": "32:11",
-        "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
-        "episode": "3",
         "season": "1"
       }
     },
@@ -84,6 +83,29 @@
       "itunes": {
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
         "episode": "5",
+        "season": "1"
+      }
+    },
+    {
+      "title": "Making a Video Game GOOD!",
+      "link": "https://assets.flightcast.com/track-v2/01JV2JC5PD4PGJP1RS75CR9ZT8.mp3",
+      "pubDate": "Mon, 12 May 2025 04:00:00 -0000",
+      "content:encoded": "<p>This time we have Casey and Prime talking about how to make a video game good. It’s a bit of a departure from the normal format, but we think you’ll enjoy it :)</p>",
+      "content:encodedSnippet": "This time we have Casey and Prime talking about how to make a video game good. It’s a bit of a departure from the normal format, but we think you’ll enjoy it :)",
+      "enclosure": {
+        "length": "30909889",
+        "type": "audio/mpeg",
+        "url": "https://assets.flightcast.com/track-v2/01JV2JC5PD4PGJP1RS75CR9ZT8.mp3"
+      },
+      "content": "This time we have Casey and Prime talking about how to make a video game good. It’s a bit of a departure from the normal format, but we think you’ll enjoy it :)",
+      "contentSnippet": "This time we have Casey and Prime talking about how to make a video game good. It’s a bit of a departure from the normal format, but we think you’ll enjoy it :)",
+      "guid": "flightcast:01JV2JC5PDGR828T1564B9R18H",
+      "isoDate": "2025-05-12T04:00:00.000Z",
+      "itunes": {
+        "author": "The Standup",
+        "duration": "32:11",
+        "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
+        "episode": "3",
         "season": "1"
       }
     },
@@ -145,7 +167,7 @@
   "generator": "Flightcast RSS Feed Generator",
   "link": "https://rss.flightcast.com/pmgqiszts7kfhopzaq8el6yw",
   "language": "en-us",
-  "lastBuildDate": "Wed, 14 May 2025 20:29:35 -0000",
+  "lastBuildDate": "Sat, 17 May 2025 14:27:32 -0000",
   "docs": "https://rss.flightcast.com/pmgqiszts7kfhopzaq8el6yw",
   "itunes": {
     "owner": {
