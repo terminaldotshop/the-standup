@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "title": "Microsoft Admits Defeat in AI?",
+      "link": "https://assets.flightcast.com/track-v2/01JXMX30EC1QDZWHV1WPT7WVHV.mp3",
+      "pubDate": "Fri, 13 Jun 2025 15:06:00 -0000",
+      "content:encoded": "<p>💸 $1M+ hackathon is live — https://hackathon.dev</p><p>Microsoft just open-sourced Copilot Chat for VS Code — but is it a W or a panic move? 👀</p><p>Prime, Teej, Casey &amp; Trash break it all down:<br>⚔️ Cursor &amp; Windsurf eating VS Code’s lunch<br>🧠 Is MSFT losing the AI dev wars?<br>🌐 Open source or just open copium?<br>💀 Also: mustaches, rats, and corporate trauma</p><p>📌 Chapters:<br>0:00:00 intro <br>0:03:25 Trash humiliated by a German Man<br>0:05:23 Prime admits he knows nothing about TMNT<br>0:06:00 Sponsor: Bolt<br>0:06:48 VSCODE Copilot going Open Source 4 Real<br>0:16:11 Inept vs Incapable (semantics)<br>0:25:37 AI Models vs AI Integration<br>0:41:20 Economics and Cheese Puffs<br>0:57:00 Klarna Klarna Klarna!<br>1:08:00 use code \"Casey\" at check w/ Klarna<br>1:09:42 Vote Teej!</p>",
+      "content:encodedSnippet": "💸 $1M+ hackathon is live — https://hackathon.dev\nMicrosoft just open-sourced Copilot Chat for VS Code — but is it a W or a panic move? 👀\nPrime, Teej, Casey & Trash break it all down:\n⚔️ Cursor & Windsurf eating VS Code’s lunch\n🧠 Is MSFT losing the AI dev wars?\n🌐 Open source or just open copium?\n💀 Also: mustaches, rats, and corporate trauma\n📌 Chapters:\n0:00:00 intro \n0:03:25 Trash humiliated by a German Man\n0:05:23 Prime admits he knows nothing about TMNT\n0:06:00 Sponsor: Bolt\n0:06:48 VSCODE Copilot going Open Source 4 Real\n0:16:11 Inept vs Incapable (semantics)\n0:25:37 AI Models vs AI Integration\n0:41:20 Economics and Cheese Puffs\n0:57:00 Klarna Klarna Klarna!\n1:08:00 use code \"Casey\" at check w/ Klarna\n1:09:42 Vote Teej!",
+      "enclosure": {
+        "length": "51321658",
+        "type": "audio/mpeg",
+        "url": "https://assets.flightcast.com/track-v2/01JXMX30EC1QDZWHV1WPT7WVHV.mp3"
+      },
+      "content": "💸 $1M+ hackathon is live — https://hackathon.dev\n\nMicrosoft just open-sourced Copilot Chat for VS Code — but is it a W or a panic move? 👀\n\nPrime, Teej, Casey & Trash break it all down:\n⚔️ Cursor & Windsurf eating VS Code’s lunch\n🧠 Is MSFT losing the AI dev wars?\n🌐 Open source or just open copium?\n💀 Also: mustaches, rats, and corporate trauma\n\n📌 Chapters:\n0:00:00 intro \n0:03:25 Trash humiliated by a German Man\n0:05:23 Prime admits he knows nothing about TMNT\n0:06:00 Sponsor: Bolt\n0:06:48 VSCODE Copilot going Open Source 4 Real\n0:16:11 Inept vs Incapable (semantics)\n0:25:37 AI Models vs AI Integration\n0:41:20 Economics and Cheese Puffs\n0:57:00 Klarna Klarna Klarna!\n1:08:00 use code \"Casey\" at check w/ Klarna\n1:09:42 Vote Teej!",
+      "contentSnippet": "💸 $1M+ hackathon is live — https://hackathon.dev\n\nMicrosoft just open-sourced Copilot Chat for VS Code — but is it a W or a panic move? 👀\n\nPrime, Teej, Casey & Trash break it all down:\n⚔️ Cursor & Windsurf eating VS Code’s lunch\n🧠 Is MSFT losing the AI dev wars?\n🌐 Open source or just open copium?\n💀 Also: mustaches, rats, and corporate trauma\n\n📌 Chapters:\n0:00:00 intro \n0:03:25 Trash humiliated by a German Man\n0:05:23 Prime admits he knows nothing about TMNT\n0:06:00 Sponsor: Bolt\n0:06:48 VSCODE Copilot going Open Source 4 Real\n0:16:11 Inept vs Incapable (semantics)\n0:25:37 AI Models vs AI Integration\n0:41:20 Economics and Cheese Puffs\n0:57:00 Klarna Klarna Klarna!\n1:08:00 use code \"Casey\" at check w/ Klarna\n1:09:42 Vote Teej!",
+      "guid": "flightcast:01JXMX30ECXC7FY86J2T7M4CRC",
+      "isoDate": "2025-06-13T15:06:00.000Z",
+      "itunes": {
+        "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
+        "episode": "12",
+        "season": "1"
+      }
+    },
+    {
       "title": "Is College Worth It? (ft. DHH)",
       "link": "https://assets.flightcast.com/track-v2/01JX2TH1EQEB8S5YWRBQA6HGSX.mp3",
       "pubDate": "Fri, 06 Jun 2025 14:35:00 -0000",
@@ -229,11 +250,11 @@
   },
   "title": "The Standup",
   "description": "ThePrimeagen and Teej host The Standup - a podcast where we talk about software, life, memes and more. It’s fun, it can be informative and sometimes Trash is also here. Joined by regular guests like Casey Muratori, Carson Gross and more!",
-  "pubDate": "Fri, 06 Jun 2025 14:35:00 -0000",
+  "pubDate": "Fri, 13 Jun 2025 15:06:00 -0000",
   "generator": "Flightcast RSS Feed Generator",
   "link": "https://rss.flightcast.com/pmgqiszts7kfhopzaq8el6yw",
   "language": "en-us",
-  "lastBuildDate": "Fri, 06 Jun 2025 14:35:00 -0000",
+  "lastBuildDate": "Fri, 13 Jun 2025 15:06:00 -0000",
   "docs": "https://rss.flightcast.com/pmgqiszts7kfhopzaq8el6yw",
   "itunes": {
     "owner": {
