@@ -18,7 +18,8 @@
       "itunes": {
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
         "episode": "12",
-        "season": "1"
+        "season": "1",
+        "episodeType": "full"
       }
     },
     {
@@ -40,7 +41,8 @@
         "explicit": "yes",
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
         "episode": "11",
-        "season": "1"
+        "season": "1",
+        "episodeType": "full"
       }
     },
     {
@@ -83,7 +85,8 @@
         "duration": "37:07",
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
         "episode": "8",
-        "season": "1"
+        "season": "1",
+        "episodeType": "full"
       }
     },
     {
@@ -105,7 +108,8 @@
         "duration": "48:14",
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
         "episode": "7",
-        "season": "1"
+        "season": "1",
+        "episodeType": "full"
       }
     },
     {
@@ -126,7 +130,8 @@
       "itunes": {
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
         "episode": "6",
-        "season": "1"
+        "season": "1",
+        "episodeType": "full"
       }
     },
     {
@@ -149,7 +154,8 @@
         "duration": "32:11",
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
         "episode": "3",
-        "season": "1"
+        "season": "1",
+        "episodeType": "full"
       }
     },
     {
@@ -171,7 +177,8 @@
         "duration": "59:22",
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
         "episode": "4",
-        "season": "1"
+        "season": "1",
+        "episodeType": "full"
       }
     },
     {
@@ -192,7 +199,8 @@
       "itunes": {
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
         "episode": "5",
-        "season": "1"
+        "season": "1",
+        "episodeType": "full"
       }
     },
     {
@@ -214,7 +222,8 @@
         "duration": "49:47",
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
         "episode": "2",
-        "season": "1"
+        "season": "1",
+        "episodeType": "full"
       }
     },
     {
@@ -236,7 +245,8 @@
         "duration": "42:32",
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
         "episode": "1",
-        "season": "1"
+        "season": "1",
+        "episodeType": "full"
       }
     }
   ],
