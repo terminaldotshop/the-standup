@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "title": "How **WE** Use AI",
+      "link": "https://assets.flightcast.com/track-v2/01JZ472F2JEB4CVTJ9FGYPRRQV.mp3",
+      "pubDate": "Wed, 02 Jul 2025 00:04:00 -0000",
+      "content:encoded": "<p>ssh terminal.shop</p><p>Opencode<br>https://github.com/sst/opencode</p><p>📌 Chapters:</p><p>00:00:00 - Intro &amp; Chess Talk<br>00:01:55 - Who uses AI<br>00:02:49 - ssh terminal.shop ad<br>00:03:22 - Dax developing opencode<br>00:11:00 - ssh terminal.shop TOS<br>00:13:32 - Casey's take on AI<br>00:31:22 - Teej's take on AI<br>00:35:55 - Prime's take on AI<br>00:40:40 - Zero to One development being prioritized<br>00:48:00 - Begging Dax to teach us to build an agent</p><p>---</p><p>**Topics Covered:**</p><p>- AI agents in programming workflows <br>- Using LLMs for 0-to-1 product development <br>- Prototyping with AI tools <br>- Maintaining vs generating code <br>- When AI fails in complex codebases <br>- Developer productivity tools <br>- Code quality and long-term maintainability <br>- API stability and tech stack evolution <br>- Vibe coding vs structured design <br>- Frontend frustration: CSS, layout, and abstractions <br>- Real-world use cases for AI-assisted coding <br>- Opinions on OpenCode and agent tooling <br>- The future of software automation<br></p>",
+      "content:encodedSnippet": "ssh terminal.shop\nOpencode\nhttps://github.com/sst/opencode\n📌 Chapters:\n00:00:00 - Intro & Chess Talk\n00:01:55 - Who uses AI\n00:02:49 - ssh terminal.shop ad\n00:03:22 - Dax developing opencode\n00:11:00 - ssh terminal.shop TOS\n00:13:32 - Casey's take on AI\n00:31:22 - Teej's take on AI\n00:35:55 - Prime's take on AI\n00:40:40 - Zero to One development being prioritized\n00:48:00 - Begging Dax to teach us to build an agent\n---\n**Topics Covered:**\n- AI agents in programming workflows \n- Using LLMs for 0-to-1 product development \n- Prototyping with AI tools \n- Maintaining vs generating code \n- When AI fails in complex codebases \n- Developer productivity tools \n- Code quality and long-term maintainability \n- API stability and tech stack evolution \n- Vibe coding vs structured design \n- Frontend frustration: CSS, layout, and abstractions \n- Real-world use cases for AI-assisted coding \n- Opinions on OpenCode and agent tooling \n- The future of software automation",
+      "enclosure": {
+        "length": "35641919",
+        "type": "audio/mpeg",
+        "url": "https://assets.flightcast.com/track-v2/01JZ472F2JEB4CVTJ9FGYPRRQV.mp3"
+      },
+      "content": "ssh terminal.shop\n\nOpencode\nhttps://github.com/sst/opencode\n\n📌 Chapters:\n\n00:00:00 - Intro & Chess Talk\n00:01:55 - Who uses AI\n00:02:49 - ssh terminal.shop ad\n00:03:22 - Dax developing opencode\n00:11:00 - ssh terminal.shop TOS\n00:13:32 - Casey's take on AI\n00:31:22 - Teej's take on AI\n00:35:55 - Prime's take on AI\n00:40:40 - Zero to One development being prioritized\n00:48:00 - Begging Dax to teach us to build an agent\n\n---\n\n**Topics Covered:**\n\n- AI agents in programming workflows \n- Using LLMs for 0-to-1 product development \n- Prototyping with AI tools \n- Maintaining vs generating code \n- When AI fails in complex codebases \n- Developer productivity tools \n- Code quality and long-term maintainability \n- API stability and tech stack evolution \n- Vibe coding vs structured design \n- Frontend frustration: CSS, layout, and abstractions \n- Real-world use cases for AI-assisted coding \n- Opinions on OpenCode and agent tooling \n- The future of software automation\n",
+      "contentSnippet": "ssh terminal.shop\n\nOpencode\nhttps://github.com/sst/opencode\n\n📌 Chapters:\n\n00:00:00 - Intro & Chess Talk\n00:01:55 - Who uses AI\n00:02:49 - ssh terminal.shop ad\n00:03:22 - Dax developing opencode\n00:11:00 - ssh terminal.shop TOS\n00:13:32 - Casey's take on AI\n00:31:22 - Teej's take on AI\n00:35:55 - Prime's take on AI\n00:40:40 - Zero to One development being prioritized\n00:48:00 - Begging Dax to teach us to build an agent\n\n---\n\n**Topics Covered:**\n\n- AI agents in programming workflows \n- Using LLMs for 0-to-1 product development \n- Prototyping with AI tools \n- Maintaining vs generating code \n- When AI fails in complex codebases \n- Developer productivity tools \n- Code quality and long-term maintainability \n- API stability and tech stack evolution \n- Vibe coding vs structured design \n- Frontend frustration: CSS, layout, and abstractions \n- Real-world use cases for AI-assisted coding \n- Opinions on OpenCode and agent tooling \n- The future of software automation",
+      "guid": "flightcast:01JZ472F2JMXPV32MB5VKQMAPC",
+      "isoDate": "2025-07-02T00:04:00.000Z",
+      "itunes": {
+        "duration": "49:30",
+        "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
+        "episode": "16",
+        "season": "1",
+        "episodeType": "full"
+      }
+    },
+    {
       "title": "Keyboard Show & Tell",
       "link": "https://assets.flightcast.com/track-v2/01JYMES07FMBTBGATZXQERYKX5.mp3",
       "pubDate": "Wed, 25 Jun 2025 21:10:00 -0000",
@@ -306,11 +329,11 @@
   },
   "title": "The Standup",
   "description": "ThePrimeagen and Teej host The Standup - a podcast where we talk about software, life, memes and more. It’s fun, it can be informative and sometimes Trash is also here. Joined by regular guests like Casey Muratori, Carson Gross and more!",
-  "pubDate": "Wed, 25 Jun 2025 21:10:00 -0000",
+  "pubDate": "Wed, 02 Jul 2025 00:04:00 -0000",
   "generator": "Flightcast RSS Feed Generator",
   "link": "https://rss.flightcast.com/pmgqiszts7kfhopzaq8el6yw",
   "language": "en-us",
-  "lastBuildDate": "Wed, 25 Jun 2025 21:10:00 -0000",
+  "lastBuildDate": "Wed, 02 Jul 2025 00:04:00 -0000",
   "docs": "https://rss.flightcast.com/pmgqiszts7kfhopzaq8el6yw",
   "itunes": {
     "owner": {
