@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "title": "WTF Typescript?",
+      "link": "https://assets.flightcast.com/track-v2/01JZTXAWXHRYV0TNJ3WK8CAS3V.mp3",
+      "pubDate": "Thu, 10 Jul 2025 19:36:00 -0000",
+      "content:encoded": "<p>Trash presents his Typescript presentation from Render ATL (Sorry if you are audio only listener)<br><br>🔗 Sponsored by Sentry https://sentry.io | Code breaks, fix it faster</p><p>📌 Chapters:</p><p>00:00:00 - Intro<br>00:00:42 - Who’s actually a “web developer”?<br>00:02:31 - Trash’s live intro &amp; TypeScript presentation setup<br>00:03:59 - Sentry #ad<br>00:04:38 - Excess property checks in TS<br>00:09:42 - WTF: Object spreads silence type errors<br>00:14:30 - React prop spreading madness<br>00:18:22 - Structural vs duck typing debate<br>00:24:00 - WTF: Enums and why everyone hates them<br>00:27:45 - Enum strings vs numbers behavior<br>00:33:10 - Why enums in Node are cursed<br>00:36:55 - Safer enum alternatives using const objects<br>00:43:10 - TS quirks: Boolean filter keeps undefined in types<br>00:46:40 - TSReset: The “CSS reset” for TypeScript<br>00:49:01 - WTF: Empty object {} lets everything through<br>00:52:32 - Doom rendered in TypeScript type system<br>00:54:00 - Type-level math in TS (it’s real)<br>00:56:33 - Scaling hell: TS performance bottlenecks<br>01:00:01 - Flamegraphs and fighting TS perf without docs<br>01:04:55 - TS inference vs explicit typing in large codebases<br>01:09:30 - Prime’s favorite TS bug strikes again<br>01:14:01 - Casey breaks down the compiler logic<br>01:17:50 - Is this a TypeScript bug or a feature?<br>01:22:44 - Final thoughts and community love</p><p>---</p><p>**Topics Covered:**</p><p>• TypeScript excess property checks<br>• Enums vs object literals<br>• Structural vs duck typing<br>• TS compiler edge cases<br>• WTFs that break your mental model<br>• Type-level math<br>• Performance debugging hell<br>• Massive monorepo pain points<br>• The one TypeScript bug Prime can’t let go</p>",
+      "content:encodedSnippet": "Trash presents his Typescript presentation from Render ATL (Sorry if you are audio only listener)\n🔗 Sponsored by Sentry https://sentry.io | Code breaks, fix it faster\n📌 Chapters:\n00:00:00 - Intro\n00:00:42 - Who’s actually a “web developer”?\n00:02:31 - Trash’s live intro & TypeScript presentation setup\n00:03:59 - Sentry #ad\n00:04:38 - Excess property checks in TS\n00:09:42 - WTF: Object spreads silence type errors\n00:14:30 - React prop spreading madness\n00:18:22 - Structural vs duck typing debate\n00:24:00 - WTF: Enums and why everyone hates them\n00:27:45 - Enum strings vs numbers behavior\n00:33:10 - Why enums in Node are cursed\n00:36:55 - Safer enum alternatives using const objects\n00:43:10 - TS quirks: Boolean filter keeps undefined in types\n00:46:40 - TSReset: The “CSS reset” for TypeScript\n00:49:01 - WTF: Empty object {} lets everything through\n00:52:32 - Doom rendered in TypeScript type system\n00:54:00 - Type-level math in TS (it’s real)\n00:56:33 - Scaling hell: TS performance bottlenecks\n01:00:01 - Flamegraphs and fighting TS perf without docs\n01:04:55 - TS inference vs explicit typing in large codebases\n01:09:30 - Prime’s favorite TS bug strikes again\n01:14:01 - Casey breaks down the compiler logic\n01:17:50 - Is this a TypeScript bug or a feature?\n01:22:44 - Final thoughts and community love\n---\n**Topics Covered:**\n• TypeScript excess property checks\n• Enums vs object literals\n• Structural vs duck typing\n• TS compiler edge cases\n• WTFs that break your mental model\n• Type-level math\n• Performance debugging hell\n• Massive monorepo pain points\n• The one TypeScript bug Prime can’t let go",
+      "enclosure": {
+        "length": "61275879",
+        "type": "audio/mpeg",
+        "url": "https://assets.flightcast.com/track-v2/01JZTXAWXHRYV0TNJ3WK8CAS3V.mp3"
+      },
+      "content": "Trash presents his Typescript presentation from Render ATL (Sorry if you are audio only listener)\n\n🔗 Sponsored by Sentry https://sentry.io | Code breaks, fix it faster\n\n📌 Chapters:\n\n00:00:00 - Intro\n00:00:42 - Who’s actually a “web developer”?\n00:02:31 - Trash’s live intro & TypeScript presentation setup\n00:03:59 - Sentry #ad\n00:04:38 - Excess property checks in TS\n00:09:42 - WTF: Object spreads silence type errors\n00:14:30 - React prop spreading madness\n00:18:22 - Structural vs duck typing debate\n00:24:00 - WTF: Enums and why everyone hates them\n00:27:45 - Enum strings vs numbers behavior\n00:33:10 - Why enums in Node are cursed\n00:36:55 - Safer enum alternatives using const objects\n00:43:10 - TS quirks: Boolean filter keeps undefined in types\n00:46:40 - TSReset: The “CSS reset” for TypeScript\n00:49:01 - WTF: Empty object {} lets everything through\n00:52:32 - Doom rendered in TypeScript type system\n00:54:00 - Type-level math in TS (it’s real)\n00:56:33 - Scaling hell: TS performance bottlenecks\n01:00:01 - Flamegraphs and fighting TS perf without docs\n01:04:55 - TS inference vs explicit typing in large codebases\n01:09:30 - Prime’s favorite TS bug strikes again\n01:14:01 - Casey breaks down the compiler logic\n01:17:50 - Is this a TypeScript bug or a feature?\n01:22:44 - Final thoughts and community love\n\n---\n\n**Topics Covered:**\n\n• TypeScript excess property checks\n• Enums vs object literals\n• Structural vs duck typing\n• TS compiler edge cases\n• WTFs that break your mental model\n• Type-level math\n• Performance debugging hell\n• Massive monorepo pain points\n• The one TypeScript bug Prime can’t let go",
+      "contentSnippet": "Trash presents his Typescript presentation from Render ATL (Sorry if you are audio only listener)\n\n🔗 Sponsored by Sentry https://sentry.io | Code breaks, fix it faster\n\n📌 Chapters:\n\n00:00:00 - Intro\n00:00:42 - Who’s actually a “web developer”?\n00:02:31 - Trash’s live intro & TypeScript presentation setup\n00:03:59 - Sentry #ad\n00:04:38 - Excess property checks in TS\n00:09:42 - WTF: Object spreads silence type errors\n00:14:30 - React prop spreading madness\n00:18:22 - Structural vs duck typing debate\n00:24:00 - WTF: Enums and why everyone hates them\n00:27:45 - Enum strings vs numbers behavior\n00:33:10 - Why enums in Node are cursed\n00:36:55 - Safer enum alternatives using const objects\n00:43:10 - TS quirks: Boolean filter keeps undefined in types\n00:46:40 - TSReset: The “CSS reset” for TypeScript\n00:49:01 - WTF: Empty object {} lets everything through\n00:52:32 - Doom rendered in TypeScript type system\n00:54:00 - Type-level math in TS (it’s real)\n00:56:33 - Scaling hell: TS performance bottlenecks\n01:00:01 - Flamegraphs and fighting TS perf without docs\n01:04:55 - TS inference vs explicit typing in large codebases\n01:09:30 - Prime’s favorite TS bug strikes again\n01:14:01 - Casey breaks down the compiler logic\n01:17:50 - Is this a TypeScript bug or a feature?\n01:22:44 - Final thoughts and community love\n\n---\n\n**Topics Covered:**\n\n• TypeScript excess property checks\n• Enums vs object literals\n• Structural vs duck typing\n• TS compiler edge cases\n• WTFs that break your mental model\n• Type-level math\n• Performance debugging hell\n• Massive monorepo pain points\n• The one TypeScript bug Prime can’t let go",
+      "guid": "flightcast:01JZTXAWXHE3YJG6HAFKGMTY70",
+      "isoDate": "2025-07-10T19:36:00.000Z",
+      "itunes": {
+        "duration": "1:25:06",
+        "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
+        "episode": "18",
+        "season": "1",
+        "episodeType": "full"
+      }
+    },
+    {
       "title": "How **WE** Use AI",
       "link": "https://assets.flightcast.com/track-v2/01JZ472F2JEB4CVTJ9FGYPRRQV.mp3",
       "pubDate": "Wed, 02 Jul 2025 00:04:00 -0000",
@@ -329,11 +352,11 @@
   },
   "title": "The Standup",
   "description": "ThePrimeagen and Teej host The Standup - a podcast where we talk about software, life, memes and more. It’s fun, it can be informative and sometimes Trash is also here. Joined by regular guests like Casey Muratori, Carson Gross and more!",
-  "pubDate": "Wed, 02 Jul 2025 00:04:00 -0000",
+  "pubDate": "Thu, 10 Jul 2025 19:36:00 -0000",
   "generator": "Flightcast RSS Feed Generator",
   "link": "https://rss.flightcast.com/pmgqiszts7kfhopzaq8el6yw",
   "language": "en-us",
-  "lastBuildDate": "Wed, 02 Jul 2025 00:04:00 -0000",
+  "lastBuildDate": "Thu, 10 Jul 2025 19:36:00 -0000",
   "docs": "https://rss.flightcast.com/pmgqiszts7kfhopzaq8el6yw",
   "itunes": {
     "owner": {
