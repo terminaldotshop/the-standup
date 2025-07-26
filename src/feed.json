@@ -2,21 +2,20 @@
   "items": [
     {
       "title": "WTF Typescript?",
-      "link": "https://assets.flightcast.com/track-v2/01JZTXAWXHRYV0TNJ3WK8CAS3V.mp3",
+      "link": "https://episode.flightcast.com/01JZTXAWXHRYV0TNJ3WK8CAS3V.mp3",
       "pubDate": "Thu, 10 Jul 2025 19:36:00 -0000",
       "content:encoded": "<p>Trash presents his Typescript presentation from Render ATL (Sorry if you are audio only listener)<br><br>🔗 Sponsored by Sentry https://sentry.io | Code breaks, fix it faster</p><p>📌 Chapters:</p><p>00:00:00 - Intro<br>00:00:42 - Who’s actually a “web developer”?<br>00:02:31 - Trash’s live intro &amp; TypeScript presentation setup<br>00:03:59 - Sentry #ad<br>00:04:38 - Excess property checks in TS<br>00:09:42 - WTF: Object spreads silence type errors<br>00:14:30 - React prop spreading madness<br>00:18:22 - Structural vs duck typing debate<br>00:24:00 - WTF: Enums and why everyone hates them<br>00:27:45 - Enum strings vs numbers behavior<br>00:33:10 - Why enums in Node are cursed<br>00:36:55 - Safer enum alternatives using const objects<br>00:43:10 - TS quirks: Boolean filter keeps undefined in types<br>00:46:40 - TSReset: The “CSS reset” for TypeScript<br>00:49:01 - WTF: Empty object {} lets everything through<br>00:52:32 - Doom rendered in TypeScript type system<br>00:54:00 - Type-level math in TS (it’s real)<br>00:56:33 - Scaling hell: TS performance bottlenecks<br>01:00:01 - Flamegraphs and fighting TS perf without docs<br>01:04:55 - TS inference vs explicit typing in large codebases<br>01:09:30 - Prime’s favorite TS bug strikes again<br>01:14:01 - Casey breaks down the compiler logic<br>01:17:50 - Is this a TypeScript bug or a feature?<br>01:22:44 - Final thoughts and community love</p><p>---</p><p>**Topics Covered:**</p><p>• TypeScript excess property checks<br>• Enums vs object literals<br>• Structural vs duck typing<br>• TS compiler edge cases<br>• WTFs that break your mental model<br>• Type-level math<br>• Performance debugging hell<br>• Massive monorepo pain points<br>• The one TypeScript bug Prime can’t let go</p>",
       "content:encodedSnippet": "Trash presents his Typescript presentation from Render ATL (Sorry if you are audio only listener)\n🔗 Sponsored by Sentry https://sentry.io | Code breaks, fix it faster\n📌 Chapters:\n00:00:00 - Intro\n00:00:42 - Who’s actually a “web developer”?\n00:02:31 - Trash’s live intro & TypeScript presentation setup\n00:03:59 - Sentry #ad\n00:04:38 - Excess property checks in TS\n00:09:42 - WTF: Object spreads silence type errors\n00:14:30 - React prop spreading madness\n00:18:22 - Structural vs duck typing debate\n00:24:00 - WTF: Enums and why everyone hates them\n00:27:45 - Enum strings vs numbers behavior\n00:33:10 - Why enums in Node are cursed\n00:36:55 - Safer enum alternatives using const objects\n00:43:10 - TS quirks: Boolean filter keeps undefined in types\n00:46:40 - TSReset: The “CSS reset” for TypeScript\n00:49:01 - WTF: Empty object {} lets everything through\n00:52:32 - Doom rendered in TypeScript type system\n00:54:00 - Type-level math in TS (it’s real)\n00:56:33 - Scaling hell: TS performance bottlenecks\n01:00:01 - Flamegraphs and fighting TS perf without docs\n01:04:55 - TS inference vs explicit typing in large codebases\n01:09:30 - Prime’s favorite TS bug strikes again\n01:14:01 - Casey breaks down the compiler logic\n01:17:50 - Is this a TypeScript bug or a feature?\n01:22:44 - Final thoughts and community love\n---\n**Topics Covered:**\n• TypeScript excess property checks\n• Enums vs object literals\n• Structural vs duck typing\n• TS compiler edge cases\n• WTFs that break your mental model\n• Type-level math\n• Performance debugging hell\n• Massive monorepo pain points\n• The one TypeScript bug Prime can’t let go",
       "enclosure": {
-        "length": "61275879",
+        "length": "61275567",
         "type": "audio/mpeg",
-        "url": "https://assets.flightcast.com/track-v2/01JZTXAWXHRYV0TNJ3WK8CAS3V.mp3"
+        "url": "https://episode.flightcast.com/01JZTXAWXHRYV0TNJ3WK8CAS3V.mp3"
       },
       "content": "Trash presents his Typescript presentation from Render ATL (Sorry if you are audio only listener)\n\n🔗 Sponsored by Sentry https://sentry.io | Code breaks, fix it faster\n\n📌 Chapters:\n\n00:00:00 - Intro\n00:00:42 - Who’s actually a “web developer”?\n00:02:31 - Trash’s live intro & TypeScript presentation setup\n00:03:59 - Sentry #ad\n00:04:38 - Excess property checks in TS\n00:09:42 - WTF: Object spreads silence type errors\n00:14:30 - React prop spreading madness\n00:18:22 - Structural vs duck typing debate\n00:24:00 - WTF: Enums and why everyone hates them\n00:27:45 - Enum strings vs numbers behavior\n00:33:10 - Why enums in Node are cursed\n00:36:55 - Safer enum alternatives using const objects\n00:43:10 - TS quirks: Boolean filter keeps undefined in types\n00:46:40 - TSReset: The “CSS reset” for TypeScript\n00:49:01 - WTF: Empty object {} lets everything through\n00:52:32 - Doom rendered in TypeScript type system\n00:54:00 - Type-level math in TS (it’s real)\n00:56:33 - Scaling hell: TS performance bottlenecks\n01:00:01 - Flamegraphs and fighting TS perf without docs\n01:04:55 - TS inference vs explicit typing in large codebases\n01:09:30 - Prime’s favorite TS bug strikes again\n01:14:01 - Casey breaks down the compiler logic\n01:17:50 - Is this a TypeScript bug or a feature?\n01:22:44 - Final thoughts and community love\n\n---\n\n**Topics Covered:**\n\n• TypeScript excess property checks\n• Enums vs object literals\n• Structural vs duck typing\n• TS compiler edge cases\n• WTFs that break your mental model\n• Type-level math\n• Performance debugging hell\n• Massive monorepo pain points\n• The one TypeScript bug Prime can’t let go",
       "contentSnippet": "Trash presents his Typescript presentation from Render ATL (Sorry if you are audio only listener)\n\n🔗 Sponsored by Sentry https://sentry.io | Code breaks, fix it faster\n\n📌 Chapters:\n\n00:00:00 - Intro\n00:00:42 - Who’s actually a “web developer”?\n00:02:31 - Trash’s live intro & TypeScript presentation setup\n00:03:59 - Sentry #ad\n00:04:38 - Excess property checks in TS\n00:09:42 - WTF: Object spreads silence type errors\n00:14:30 - React prop spreading madness\n00:18:22 - Structural vs duck typing debate\n00:24:00 - WTF: Enums and why everyone hates them\n00:27:45 - Enum strings vs numbers behavior\n00:33:10 - Why enums in Node are cursed\n00:36:55 - Safer enum alternatives using const objects\n00:43:10 - TS quirks: Boolean filter keeps undefined in types\n00:46:40 - TSReset: The “CSS reset” for TypeScript\n00:49:01 - WTF: Empty object {} lets everything through\n00:52:32 - Doom rendered in TypeScript type system\n00:54:00 - Type-level math in TS (it’s real)\n00:56:33 - Scaling hell: TS performance bottlenecks\n01:00:01 - Flamegraphs and fighting TS perf without docs\n01:04:55 - TS inference vs explicit typing in large codebases\n01:09:30 - Prime’s favorite TS bug strikes again\n01:14:01 - Casey breaks down the compiler logic\n01:17:50 - Is this a TypeScript bug or a feature?\n01:22:44 - Final thoughts and community love\n\n---\n\n**Topics Covered:**\n\n• TypeScript excess property checks\n• Enums vs object literals\n• Structural vs duck typing\n• TS compiler edge cases\n• WTFs that break your mental model\n• Type-level math\n• Performance debugging hell\n• Massive monorepo pain points\n• The one TypeScript bug Prime can’t let go",
       "guid": "flightcast:01JZTXAWXHE3YJG6HAFKGMTY70",
       "isoDate": "2025-07-10T19:36:00.000Z",
       "itunes": {
-        "duration": "1:25:06",
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
         "episode": "18",
         "season": "1",
@@ -25,21 +24,20 @@
     },
     {
       "title": "How **WE** Use AI",
-      "link": "https://assets.flightcast.com/track-v2/01JZ472F2JEB4CVTJ9FGYPRRQV.mp3",
+      "link": "https://episode.flightcast.com/01JZ472F2JEB4CVTJ9FGYPRRQV.mp3",
       "pubDate": "Wed, 02 Jul 2025 00:04:00 -0000",
       "content:encoded": "<p>ssh terminal.shop</p><p>Opencode<br>https://github.com/sst/opencode</p><p>📌 Chapters:</p><p>00:00:00 - Intro &amp; Chess Talk<br>00:01:55 - Who uses AI<br>00:02:49 - ssh terminal.shop ad<br>00:03:22 - Dax developing opencode<br>00:11:00 - ssh terminal.shop TOS<br>00:13:32 - Casey's take on AI<br>00:31:22 - Teej's take on AI<br>00:35:55 - Prime's take on AI<br>00:40:40 - Zero to One development being prioritized<br>00:48:00 - Begging Dax to teach us to build an agent</p><p>---</p><p>**Topics Covered:**</p><p>- AI agents in programming workflows <br>- Using LLMs for 0-to-1 product development <br>- Prototyping with AI tools <br>- Maintaining vs generating code <br>- When AI fails in complex codebases <br>- Developer productivity tools <br>- Code quality and long-term maintainability <br>- API stability and tech stack evolution <br>- Vibe coding vs structured design <br>- Frontend frustration: CSS, layout, and abstractions <br>- Real-world use cases for AI-assisted coding <br>- Opinions on OpenCode and agent tooling <br>- The future of software automation<br></p>",
       "content:encodedSnippet": "ssh terminal.shop\nOpencode\nhttps://github.com/sst/opencode\n📌 Chapters:\n00:00:00 - Intro & Chess Talk\n00:01:55 - Who uses AI\n00:02:49 - ssh terminal.shop ad\n00:03:22 - Dax developing opencode\n00:11:00 - ssh terminal.shop TOS\n00:13:32 - Casey's take on AI\n00:31:22 - Teej's take on AI\n00:35:55 - Prime's take on AI\n00:40:40 - Zero to One development being prioritized\n00:48:00 - Begging Dax to teach us to build an agent\n---\n**Topics Covered:**\n- AI agents in programming workflows \n- Using LLMs for 0-to-1 product development \n- Prototyping with AI tools \n- Maintaining vs generating code \n- When AI fails in complex codebases \n- Developer productivity tools \n- Code quality and long-term maintainability \n- API stability and tech stack evolution \n- Vibe coding vs structured design \n- Frontend frustration: CSS, layout, and abstractions \n- Real-world use cases for AI-assisted coding \n- Opinions on OpenCode and agent tooling \n- The future of software automation",
       "enclosure": {
-        "length": "35641919",
+        "length": "35641607",
         "type": "audio/mpeg",
-        "url": "https://assets.flightcast.com/track-v2/01JZ472F2JEB4CVTJ9FGYPRRQV.mp3"
+        "url": "https://episode.flightcast.com/01JZ472F2JEB4CVTJ9FGYPRRQV.mp3"
       },
       "content": "ssh terminal.shop\n\nOpencode\nhttps://github.com/sst/opencode\n\n📌 Chapters:\n\n00:00:00 - Intro & Chess Talk\n00:01:55 - Who uses AI\n00:02:49 - ssh terminal.shop ad\n00:03:22 - Dax developing opencode\n00:11:00 - ssh terminal.shop TOS\n00:13:32 - Casey's take on AI\n00:31:22 - Teej's take on AI\n00:35:55 - Prime's take on AI\n00:40:40 - Zero to One development being prioritized\n00:48:00 - Begging Dax to teach us to build an agent\n\n---\n\n**Topics Covered:**\n\n- AI agents in programming workflows \n- Using LLMs for 0-to-1 product development \n- Prototyping with AI tools \n- Maintaining vs generating code \n- When AI fails in complex codebases \n- Developer productivity tools \n- Code quality and long-term maintainability \n- API stability and tech stack evolution \n- Vibe coding vs structured design \n- Frontend frustration: CSS, layout, and abstractions \n- Real-world use cases for AI-assisted coding \n- Opinions on OpenCode and agent tooling \n- The future of software automation\n",
       "contentSnippet": "ssh terminal.shop\n\nOpencode\nhttps://github.com/sst/opencode\n\n📌 Chapters:\n\n00:00:00 - Intro & Chess Talk\n00:01:55 - Who uses AI\n00:02:49 - ssh terminal.shop ad\n00:03:22 - Dax developing opencode\n00:11:00 - ssh terminal.shop TOS\n00:13:32 - Casey's take on AI\n00:31:22 - Teej's take on AI\n00:35:55 - Prime's take on AI\n00:40:40 - Zero to One development being prioritized\n00:48:00 - Begging Dax to teach us to build an agent\n\n---\n\n**Topics Covered:**\n\n- AI agents in programming workflows \n- Using LLMs for 0-to-1 product development \n- Prototyping with AI tools \n- Maintaining vs generating code \n- When AI fails in complex codebases \n- Developer productivity tools \n- Code quality and long-term maintainability \n- API stability and tech stack evolution \n- Vibe coding vs structured design \n- Frontend frustration: CSS, layout, and abstractions \n- Real-world use cases for AI-assisted coding \n- Opinions on OpenCode and agent tooling \n- The future of software automation",
       "guid": "flightcast:01JZ472F2JMXPV32MB5VKQMAPC",
       "isoDate": "2025-07-02T00:04:00.000Z",
       "itunes": {
-        "duration": "49:30",
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
         "episode": "16",
         "season": "1",
@@ -48,21 +46,20 @@
     },
     {
       "title": "Keyboard Show & Tell",
-      "link": "https://assets.flightcast.com/track-v2/01JYMES07FMBTBGATZXQERYKX5.mp3",
+      "link": "https://episode.flightcast.com/01JYMES07FMBTBGATZXQERYKX5.mp3",
       "pubDate": "Wed, 25 Jun 2025 21:10:00 -0000",
       "content:encoded": "<p>🔗 Sponsored by Code Rabbit<br>https://coderabbit.link/primeagen-vscode</p><p>⸻</p><p>🎹 Finding the Right Keyboard</p><p>Welcome to The Standup – where developers, creators, and founders debate the big questions. In this episode, we talk about all things Keyboards.</p><p>We dive deep into:</p><p>- Keyboard Obsession Origins<br>- Mechanical Keyboards 101: Switch types, thock vs. clicky, creamy vs. crispy<br>- Keychron, GMMK Pro, Dactyl Manuform &amp; Voyager Reviews<br>- Box Switches &amp; Keycap Profiles (Cherry, DSA, OEM)<br>- Silent Switches vs. Clicky Switches Debate<br>- Typing Ergonomics &amp; Wrist Pain Fixes<br>- Split Keyboards, Thumb Clusters, and Concavity Explained<br>- Custom Keyboards with RGB &amp; Anime Keycaps<br>- Keyboard Lubing<br>- ZMK vs. QMK Keyboard Programming<br>- Typing Competitions &amp; Internet Speed Typing Lore<br>- Casey’s Journey: From Amiga to Custom Builds<br>- ASMR &amp; Key Sounds Showcase<br>- Trash’s Keyboard Garage Sale Finds<br>- Ergonomic vs. Aesthetic Keyboards<br>- How Much is Too Much for a Keyboard?</p><p>⸻</p><p>📌 Chapters:<br>0:00 - intro + banter<br>2:13 - the only coffee to drink<br>3:50 - who are the keyboard fiends<br>5:22 - sponsor: CodeRabbit <br>6:03 - Casey learns about Keyboards<br>2:05 - is college still worth it in 2025? <br>5:48 - the cost of college in the U.S. vs Europe <br>10:24 - What is Thock?<br>15:45 - What are Box Switches?<br>17:08 - Trashes Keyboard<br>24:00 - Primes insane keyboard<br>25:45 - Caseys keyboard<br>27:00 - Programming your Keyboard<br>29:25 - Touch Typing and the Home-Row<br>33:30 Teej's keyboard<br>36:38 - Trash's AOL Dragonball Z Battles<br>37:55 - More Prime Keyboards<br>42:18 - How much is too much money on a Keyboard<br>45:00 - Lube talk<br>47:05 - Mice suck<br>50:05 - Casey's Keycaps<br>53:56 - Pressure<br>58:55 - Prime is NOT in charge of the Airbnb<br>1:00:40 - Outro and Inspiration</p><p>⸻</p><p>📢 Subscribe for more honest convos about dev life, startups, and tech culture.<br>🧠 Hit the bell so you don’t miss the next one.<br></p>",
       "content:encodedSnippet": "🔗 Sponsored by Code Rabbit\nhttps://coderabbit.link/primeagen-vscode\n⸻\n🎹 Finding the Right Keyboard\nWelcome to The Standup – where developers, creators, and founders debate the big questions. In this episode, we talk about all things Keyboards.\nWe dive deep into:\n- Keyboard Obsession Origins\n- Mechanical Keyboards 101: Switch types, thock vs. clicky, creamy vs. crispy\n- Keychron, GMMK Pro, Dactyl Manuform & Voyager Reviews\n- Box Switches & Keycap Profiles (Cherry, DSA, OEM)\n- Silent Switches vs. Clicky Switches Debate\n- Typing Ergonomics & Wrist Pain Fixes\n- Split Keyboards, Thumb Clusters, and Concavity Explained\n- Custom Keyboards with RGB & Anime Keycaps\n- Keyboard Lubing\n- ZMK vs. QMK Keyboard Programming\n- Typing Competitions & Internet Speed Typing Lore\n- Casey’s Journey: From Amiga to Custom Builds\n- ASMR & Key Sounds Showcase\n- Trash’s Keyboard Garage Sale Finds\n- Ergonomic vs. Aesthetic Keyboards\n- How Much is Too Much for a Keyboard?\n⸻\n📌 Chapters:\n0:00 - intro + banter\n2:13 - the only coffee to drink\n3:50 - who are the keyboard fiends\n5:22 - sponsor: CodeRabbit \n6:03 - Casey learns about Keyboards\n2:05 - is college still worth it in 2025? \n5:48 - the cost of college in the U.S. vs Europe \n10:24 - What is Thock?\n15:45 - What are Box Switches?\n17:08 - Trashes Keyboard\n24:00 - Primes insane keyboard\n25:45 - Caseys keyboard\n27:00 - Programming your Keyboard\n29:25 - Touch Typing and the Home-Row\n33:30 Teej's keyboard\n36:38 - Trash's AOL Dragonball Z Battles\n37:55 - More Prime Keyboards\n42:18 - How much is too much money on a Keyboard\n45:00 - Lube talk\n47:05 - Mice suck\n50:05 - Casey's Keycaps\n53:56 - Pressure\n58:55 - Prime is NOT in charge of the Airbnb\n1:00:40 - Outro and Inspiration\n⸻\n📢 Subscribe for more honest convos about dev life, startups, and tech culture.\n🧠 Hit the bell so you don’t miss the next one.",
       "enclosure": {
-        "length": "46614915",
+        "length": "46614603",
         "type": "audio/mpeg",
-        "url": "https://assets.flightcast.com/track-v2/01JYMES07FMBTBGATZXQERYKX5.mp3"
+        "url": "https://episode.flightcast.com/01JYMES07FMBTBGATZXQERYKX5.mp3"
       },
       "content": "🔗 Sponsored by Code Rabbit\nhttps://coderabbit.link/primeagen-vscode\n\n⸻\n\n🎹 Finding the Right Keyboard\n\nWelcome to The Standup – where developers, creators, and founders debate the big questions. In this episode, we talk about all things Keyboards.\n\nWe dive deep into:\n\n- Keyboard Obsession Origins\n- Mechanical Keyboards 101: Switch types, thock vs. clicky, creamy vs. crispy\n- Keychron, GMMK Pro, Dactyl Manuform & Voyager Reviews\n- Box Switches & Keycap Profiles (Cherry, DSA, OEM)\n- Silent Switches vs. Clicky Switches Debate\n- Typing Ergonomics & Wrist Pain Fixes\n- Split Keyboards, Thumb Clusters, and Concavity Explained\n- Custom Keyboards with RGB & Anime Keycaps\n- Keyboard Lubing\n- ZMK vs. QMK Keyboard Programming\n- Typing Competitions & Internet Speed Typing Lore\n- Casey’s Journey: From Amiga to Custom Builds\n- ASMR & Key Sounds Showcase\n- Trash’s Keyboard Garage Sale Finds\n- Ergonomic vs. Aesthetic Keyboards\n- How Much is Too Much for a Keyboard?\n\n⸻\n\n📌 Chapters:\n0:00 - intro + banter\n2:13 - the only coffee to drink\n3:50 - who are the keyboard fiends\n5:22 - sponsor: CodeRabbit \n6:03 - Casey learns about Keyboards\n2:05 - is college still worth it in 2025? \n5:48 - the cost of college in the U.S. vs Europe \n10:24 - What is Thock?\n15:45 - What are Box Switches?\n17:08 - Trashes Keyboard\n24:00 - Primes insane keyboard\n25:45 - Caseys keyboard\n27:00 - Programming your Keyboard\n29:25 - Touch Typing and the Home-Row\n33:30 Teej's keyboard\n36:38 - Trash's AOL Dragonball Z Battles\n37:55 - More Prime Keyboards\n42:18 - How much is too much money on a Keyboard\n45:00 - Lube talk\n47:05 - Mice suck\n50:05 - Casey's Keycaps\n53:56 - Pressure\n58:55 - Prime is NOT in charge of the Airbnb\n1:00:40 - Outro and Inspiration\n\n⸻\n\n📢 Subscribe for more honest convos about dev life, startups, and tech culture.\n🧠 Hit the bell so you don’t miss the next one.\n",
       "contentSnippet": "🔗 Sponsored by Code Rabbit\nhttps://coderabbit.link/primeagen-vscode\n\n⸻\n\n🎹 Finding the Right Keyboard\n\nWelcome to The Standup – where developers, creators, and founders debate the big questions. In this episode, we talk about all things Keyboards.\n\nWe dive deep into:\n\n- Keyboard Obsession Origins\n- Mechanical Keyboards 101: Switch types, thock vs. clicky, creamy vs. crispy\n- Keychron, GMMK Pro, Dactyl Manuform & Voyager Reviews\n- Box Switches & Keycap Profiles (Cherry, DSA, OEM)\n- Silent Switches vs. Clicky Switches Debate\n- Typing Ergonomics & Wrist Pain Fixes\n- Split Keyboards, Thumb Clusters, and Concavity Explained\n- Custom Keyboards with RGB & Anime Keycaps\n- Keyboard Lubing\n- ZMK vs. QMK Keyboard Programming\n- Typing Competitions & Internet Speed Typing Lore\n- Casey’s Journey: From Amiga to Custom Builds\n- ASMR & Key Sounds Showcase\n- Trash’s Keyboard Garage Sale Finds\n- Ergonomic vs. Aesthetic Keyboards\n- How Much is Too Much for a Keyboard?\n\n⸻\n\n📌 Chapters:\n0:00 - intro + banter\n2:13 - the only coffee to drink\n3:50 - who are the keyboard fiends\n5:22 - sponsor: CodeRabbit \n6:03 - Casey learns about Keyboards\n2:05 - is college still worth it in 2025? \n5:48 - the cost of college in the U.S. vs Europe \n10:24 - What is Thock?\n15:45 - What are Box Switches?\n17:08 - Trashes Keyboard\n24:00 - Primes insane keyboard\n25:45 - Caseys keyboard\n27:00 - Programming your Keyboard\n29:25 - Touch Typing and the Home-Row\n33:30 Teej's keyboard\n36:38 - Trash's AOL Dragonball Z Battles\n37:55 - More Prime Keyboards\n42:18 - How much is too much money on a Keyboard\n45:00 - Lube talk\n47:05 - Mice suck\n50:05 - Casey's Keycaps\n53:56 - Pressure\n58:55 - Prime is NOT in charge of the Airbnb\n1:00:40 - Outro and Inspiration\n\n⸻\n\n📢 Subscribe for more honest convos about dev life, startups, and tech culture.\n🧠 Hit the bell so you don’t miss the next one.",
       "guid": "flightcast:01JYMES07FX2SH66E518KYX4AS",
       "isoDate": "2025-06-25T21:10:00.000Z",
       "itunes": {
-        "duration": "1:04:44",
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
         "episode": "15",
         "season": "1",
@@ -71,21 +68,20 @@
     },
     {
       "title": "The Real Problems with Git",
-      "link": "https://assets.flightcast.com/track-v2/01JYMEN1MEHZQVM7CPNNYTMB8X.mp3",
+      "link": "https://episode.flightcast.com/01JYMEN1MEHZQVM7CPNNYTMB8X.mp3",
       "pubDate": "Wed, 25 Jun 2025 21:08:00 -0000",
       "content:encoded": "<p>🔗 Sponsored by Code Rabbit<br>https://coderabbit.link/primeagen-vscode</p><p>ssh terminal.shop</p><p>00:00:00 - Intro<br>00:00:57 - The New Standup Dress Code<br>00:03:38 - What we're gonna talk about<br>00:05:05 - Code Rabbit Ad!<br>00:05:50 - Prime and Begin argue about Botched Rebases<br>00:09:21 - What Source Control *Should* Be <br>00:20:01 - Casey and Begin agree on the future Source Control<br>00:26:00 - Prime makes Git Branching even more Complicated by comparing it to Quantum Mechanics<br>00:27:56 - The Idiot's Perspective<br>00:34:00 - When Teej deals with Merges<br>00:36:48 - Conway's Law informs Git process<br>00:42:05 - Google Docs Analogy<br>00:45:30 - How Real Developers Ship Code<br>00:47:55 - What Should Version Control be?<br>00:50:54 - Would Casey let a Junior Eng roll their own VCS<br>00:59:25 - Why Prime Rebases and we all Fight<br>01:16:50 - Begin's Law<br>01:17:22 - Git Hooks<br>01:23:48 - Git Koans<br></p>",
       "content:encodedSnippet": "🔗 Sponsored by Code Rabbit\nhttps://coderabbit.link/primeagen-vscode\nssh terminal.shop\n00:00:00 - Intro\n00:00:57 - The New Standup Dress Code\n00:03:38 - What we're gonna talk about\n00:05:05 - Code Rabbit Ad!\n00:05:50 - Prime and Begin argue about Botched Rebases\n00:09:21 - What Source Control *Should* Be \n00:20:01 - Casey and Begin agree on the future Source Control\n00:26:00 - Prime makes Git Branching even more Complicated by comparing it to Quantum Mechanics\n00:27:56 - The Idiot's Perspective\n00:34:00 - When Teej deals with Merges\n00:36:48 - Conway's Law informs Git process\n00:42:05 - Google Docs Analogy\n00:45:30 - How Real Developers Ship Code\n00:47:55 - What Should Version Control be?\n00:50:54 - Would Casey let a Junior Eng roll their own VCS\n00:59:25 - Why Prime Rebases and we all Fight\n01:16:50 - Begin's Law\n01:17:22 - Git Hooks\n01:23:48 - Git Koans",
       "enclosure": {
-        "length": "63208104",
+        "length": "63207792",
         "type": "audio/mpeg",
-        "url": "https://assets.flightcast.com/track-v2/01JYMEN1MEHZQVM7CPNNYTMB8X.mp3"
+        "url": "https://episode.flightcast.com/01JYMEN1MEHZQVM7CPNNYTMB8X.mp3"
       },
       "content": "🔗 Sponsored by Code Rabbit\nhttps://coderabbit.link/primeagen-vscode\n\nssh terminal.shop\n\n00:00:00 - Intro\n00:00:57 - The New Standup Dress Code\n00:03:38 - What we're gonna talk about\n00:05:05 - Code Rabbit Ad!\n00:05:50 - Prime and Begin argue about Botched Rebases\n00:09:21 - What Source Control *Should* Be \n00:20:01 - Casey and Begin agree on the future Source Control\n00:26:00 - Prime makes Git Branching even more Complicated by comparing it to Quantum Mechanics\n00:27:56 - The Idiot's Perspective\n00:34:00 - When Teej deals with Merges\n00:36:48 - Conway's Law informs Git process\n00:42:05 - Google Docs Analogy\n00:45:30 - How Real Developers Ship Code\n00:47:55 - What Should Version Control be?\n00:50:54 - Would Casey let a Junior Eng roll their own VCS\n00:59:25 - Why Prime Rebases and we all Fight\n01:16:50 - Begin's Law\n01:17:22 - Git Hooks\n01:23:48 - Git Koans\n",
       "contentSnippet": "🔗 Sponsored by Code Rabbit\nhttps://coderabbit.link/primeagen-vscode\n\nssh terminal.shop\n\n00:00:00 - Intro\n00:00:57 - The New Standup Dress Code\n00:03:38 - What we're gonna talk about\n00:05:05 - Code Rabbit Ad!\n00:05:50 - Prime and Begin argue about Botched Rebases\n00:09:21 - What Source Control *Should* Be \n00:20:01 - Casey and Begin agree on the future Source Control\n00:26:00 - Prime makes Git Branching even more Complicated by comparing it to Quantum Mechanics\n00:27:56 - The Idiot's Perspective\n00:34:00 - When Teej deals with Merges\n00:36:48 - Conway's Law informs Git process\n00:42:05 - Google Docs Analogy\n00:45:30 - How Real Developers Ship Code\n00:47:55 - What Should Version Control be?\n00:50:54 - Would Casey let a Junior Eng roll their own VCS\n00:59:25 - Why Prime Rebases and we all Fight\n01:16:50 - Begin's Law\n01:17:22 - Git Hooks\n01:23:48 - Git Koans",
       "guid": "flightcast:01JYMEN1ME8GVE22CZ1DY6QMME",
       "isoDate": "2025-06-25T21:08:00.000Z",
       "itunes": {
-        "duration": "1:27:47",
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
         "episode": "14",
         "season": "1",
@@ -94,14 +90,14 @@
     },
     {
       "title": "Microsoft Admits Defeat in AI?",
-      "link": "https://assets.flightcast.com/track-v2/01JXMX30EC1QDZWHV1WPT7WVHV.mp3",
+      "link": "https://episode.flightcast.com/01JXMX30EC1QDZWHV1WPT7WVHV.mp3",
       "pubDate": "Fri, 13 Jun 2025 15:06:00 -0000",
       "content:encoded": "<p>💸 $1M+ hackathon is live — https://hackathon.dev</p><p>Microsoft just open-sourced Copilot Chat for VS Code — but is it a W or a panic move? 👀</p><p>Prime, Teej, Casey &amp; Trash break it all down:<br>⚔️ Cursor &amp; Windsurf eating VS Code’s lunch<br>🧠 Is MSFT losing the AI dev wars?<br>🌐 Open source or just open copium?<br>💀 Also: mustaches, rats, and corporate trauma</p><p>📌 Chapters:<br>0:00:00 intro <br>0:03:25 Trash humiliated by a German Man<br>0:05:23 Prime admits he knows nothing about TMNT<br>0:06:00 Sponsor: Bolt<br>0:06:48 VSCODE Copilot going Open Source 4 Real<br>0:16:11 Inept vs Incapable (semantics)<br>0:25:37 AI Models vs AI Integration<br>0:41:20 Economics and Cheese Puffs<br>0:57:00 Klarna Klarna Klarna!<br>1:08:00 use code \"Casey\" at check w/ Klarna<br>1:09:42 Vote Teej!</p>",
       "content:encodedSnippet": "💸 $1M+ hackathon is live — https://hackathon.dev\nMicrosoft just open-sourced Copilot Chat for VS Code — but is it a W or a panic move? 👀\nPrime, Teej, Casey & Trash break it all down:\n⚔️ Cursor & Windsurf eating VS Code’s lunch\n🧠 Is MSFT losing the AI dev wars?\n🌐 Open source or just open copium?\n💀 Also: mustaches, rats, and corporate trauma\n📌 Chapters:\n0:00:00 intro \n0:03:25 Trash humiliated by a German Man\n0:05:23 Prime admits he knows nothing about TMNT\n0:06:00 Sponsor: Bolt\n0:06:48 VSCODE Copilot going Open Source 4 Real\n0:16:11 Inept vs Incapable (semantics)\n0:25:37 AI Models vs AI Integration\n0:41:20 Economics and Cheese Puffs\n0:57:00 Klarna Klarna Klarna!\n1:08:00 use code \"Casey\" at check w/ Klarna\n1:09:42 Vote Teej!",
       "enclosure": {
-        "length": "51321658",
+        "length": "51321346",
         "type": "audio/mpeg",
-        "url": "https://assets.flightcast.com/track-v2/01JXMX30EC1QDZWHV1WPT7WVHV.mp3"
+        "url": "https://episode.flightcast.com/01JXMX30EC1QDZWHV1WPT7WVHV.mp3"
       },
       "content": "💸 $1M+ hackathon is live — https://hackathon.dev\n\nMicrosoft just open-sourced Copilot Chat for VS Code — but is it a W or a panic move? 👀\n\nPrime, Teej, Casey & Trash break it all down:\n⚔️ Cursor & Windsurf eating VS Code’s lunch\n🧠 Is MSFT losing the AI dev wars?\n🌐 Open source or just open copium?\n💀 Also: mustaches, rats, and corporate trauma\n\n📌 Chapters:\n0:00:00 intro \n0:03:25 Trash humiliated by a German Man\n0:05:23 Prime admits he knows nothing about TMNT\n0:06:00 Sponsor: Bolt\n0:06:48 VSCODE Copilot going Open Source 4 Real\n0:16:11 Inept vs Incapable (semantics)\n0:25:37 AI Models vs AI Integration\n0:41:20 Economics and Cheese Puffs\n0:57:00 Klarna Klarna Klarna!\n1:08:00 use code \"Casey\" at check w/ Klarna\n1:09:42 Vote Teej!",
       "contentSnippet": "💸 $1M+ hackathon is live — https://hackathon.dev\n\nMicrosoft just open-sourced Copilot Chat for VS Code — but is it a W or a panic move? 👀\n\nPrime, Teej, Casey & Trash break it all down:\n⚔️ Cursor & Windsurf eating VS Code’s lunch\n🧠 Is MSFT losing the AI dev wars?\n🌐 Open source or just open copium?\n💀 Also: mustaches, rats, and corporate trauma\n\n📌 Chapters:\n0:00:00 intro \n0:03:25 Trash humiliated by a German Man\n0:05:23 Prime admits he knows nothing about TMNT\n0:06:00 Sponsor: Bolt\n0:06:48 VSCODE Copilot going Open Source 4 Real\n0:16:11 Inept vs Incapable (semantics)\n0:25:37 AI Models vs AI Integration\n0:41:20 Economics and Cheese Puffs\n0:57:00 Klarna Klarna Klarna!\n1:08:00 use code \"Casey\" at check w/ Klarna\n1:09:42 Vote Teej!",
@@ -116,14 +112,14 @@
     },
     {
       "title": "Is College Worth It? (ft. DHH)",
-      "link": "https://assets.flightcast.com/track-v2/01JX2TH1EQEB8S5YWRBQA6HGSX.mp3",
+      "link": "https://episode.flightcast.com/01JX2TH1EQEB8S5YWRBQA6HGSX.mp3",
       "pubDate": "Fri, 06 Jun 2025 14:35:00 -0000",
       "content:encoded": "<p>🔗 Sponsored by Code Rabbit<br>https://coderabbit.link/primeagen-vscode</p><p>⸻</p><p>🎓 Is College Still Worth It in 2025?</p><p>Welcome to The Standup – where developers, creators, and founders debate the big questions. In this episode, we sit down with David Heinemeier Hansson (DHH), the creator of Ruby on Rails and Basecamp co-founder.</p><p>👉 Is College Worth It in 2025?</p><p>We dive deep into:</p><p>⏳ The ROI of college in a post-AI world<br>🇺🇸 Why American higher ed is broken (from a Danish POV)<br>📉 Are CS degrees still worth $250K?<br>💸 The myth of the “four-year luxury cruise”<br>🤖 How AI is disrupting the junior dev job market<br>🔍 Hiring: Is college even a useful signal anymore?<br>🧠 IQ vs wisdom vs vibes – what really matters in hiring<br>🧰 Is programming a trade? Should we move to apprenticeships?<br>👨‍🌾 Why every dev wants to be a farmer (and why that’s delusional)</p><p>Whether you’re considering college, hiring devs, or already knee-deep in student debt, this conversation pulls no punches and may just change how you think about education, hiring, and the future of software development.</p><p>⸻</p><p>📌 Chapters:<br>0:00 intro <br>2:05 is college still worth it in 2025? <br>5:48 the cost of college in the U.S. vs Europe <br>6:57 sponsor: CodeRabbit <br>7:42 good point<br>9:10 DHH explains the Danish education system <br>13:02 is college just a luxury cruise? <br>17:45 what are you actually buying with a degree? <br>21:20 how companies *really* hire developers <br>26:11 Casey’s take: programming should be a trade <br>30:40 is college a filter for IQ or just vibes? <br>45:50 what skills matter more than a degree <br>49:20 how to actually learn to code in 2025 <br>53:00 is college redeemable? final thoughts <br>57:15 wrap-up &amp; what’s next on the podcast</p><p>#IsCollegeWorthIt #DHH #CaseyMuratori #DeveloperPodcast #SoftwareEngineering #TechPodcast #BootcampVsCollege #ProgrammerLife #TechCareers #TheStartupPodcast</p>",
       "content:encodedSnippet": "🔗 Sponsored by Code Rabbit\nhttps://coderabbit.link/primeagen-vscode\n⸻\n🎓 Is College Still Worth It in 2025?\nWelcome to The Standup – where developers, creators, and founders debate the big questions. In this episode, we sit down with David Heinemeier Hansson (DHH), the creator of Ruby on Rails and Basecamp co-founder.\n👉 Is College Worth It in 2025?\nWe dive deep into:\n⏳ The ROI of college in a post-AI world\n🇺🇸 Why American higher ed is broken (from a Danish POV)\n📉 Are CS degrees still worth $250K?\n💸 The myth of the “four-year luxury cruise”\n🤖 How AI is disrupting the junior dev job market\n🔍 Hiring: Is college even a useful signal anymore?\n🧠 IQ vs wisdom vs vibes – what really matters in hiring\n🧰 Is programming a trade? Should we move to apprenticeships?\n👨‍🌾 Why every dev wants to be a farmer (and why that’s delusional)\nWhether you’re considering college, hiring devs, or already knee-deep in student debt, this conversation pulls no punches and may just change how you think about education, hiring, and the future of software development.\n⸻\n📌 Chapters:\n0:00 intro \n2:05 is college still worth it in 2025? \n5:48 the cost of college in the U.S. vs Europe \n6:57 sponsor: CodeRabbit \n7:42 good point\n9:10 DHH explains the Danish education system \n13:02 is college just a luxury cruise? \n17:45 what are you actually buying with a degree? \n21:20 how companies *really* hire developers \n26:11 Casey’s take: programming should be a trade \n30:40 is college a filter for IQ or just vibes? \n45:50 what skills matter more than a degree \n49:20 how to actually learn to code in 2025 \n53:00 is college redeemable? final thoughts \n57:15 wrap-up & what’s next on the podcast\n#IsCollegeWorthIt #DHH #CaseyMuratori #DeveloperPodcast #SoftwareEngineering #TechPodcast #BootcampVsCollege #ProgrammerLife #TechCareers #TheStartupPodcast",
       "enclosure": {
-        "length": "46865064",
+        "length": "46864752",
         "type": "audio/mpeg",
-        "url": "https://assets.flightcast.com/track-v2/01JX2TH1EQEB8S5YWRBQA6HGSX.mp3"
+        "url": "https://episode.flightcast.com/01JX2TH1EQEB8S5YWRBQA6HGSX.mp3"
       },
       "content": "🔗 Sponsored by Code Rabbit\nhttps://coderabbit.link/primeagen-vscode\n\n⸻\n\n🎓 Is College Still Worth It in 2025?\n\nWelcome to The Standup – where developers, creators, and founders debate the big questions. In this episode, we sit down with David Heinemeier Hansson (DHH), the creator of Ruby on Rails and Basecamp co-founder.\n\n👉 Is College Worth It in 2025?\n\nWe dive deep into:\n\n⏳ The ROI of college in a post-AI world\n🇺🇸 Why American higher ed is broken (from a Danish POV)\n📉 Are CS degrees still worth $250K?\n💸 The myth of the “four-year luxury cruise”\n🤖 How AI is disrupting the junior dev job market\n🔍 Hiring: Is college even a useful signal anymore?\n🧠 IQ vs wisdom vs vibes – what really matters in hiring\n🧰 Is programming a trade? Should we move to apprenticeships?\n👨‍🌾 Why every dev wants to be a farmer (and why that’s delusional)\n\nWhether you’re considering college, hiring devs, or already knee-deep in student debt, this conversation pulls no punches and may just change how you think about education, hiring, and the future of software development.\n\n⸻\n\n📌 Chapters:\n0:00 intro \n2:05 is college still worth it in 2025? \n5:48 the cost of college in the U.S. vs Europe \n6:57 sponsor: CodeRabbit \n7:42 good point\n9:10 DHH explains the Danish education system \n13:02 is college just a luxury cruise? \n17:45 what are you actually buying with a degree? \n21:20 how companies *really* hire developers \n26:11 Casey’s take: programming should be a trade \n30:40 is college a filter for IQ or just vibes? \n45:50 what skills matter more than a degree \n49:20 how to actually learn to code in 2025 \n53:00 is college redeemable? final thoughts \n57:15 wrap-up & what’s next on the podcast\n\n#IsCollegeWorthIt #DHH #CaseyMuratori #DeveloperPodcast #SoftwareEngineering #TechPodcast #BootcampVsCollege #ProgrammerLife #TechCareers #TheStartupPodcast",
       "contentSnippet": "🔗 Sponsored by Code Rabbit\nhttps://coderabbit.link/primeagen-vscode\n\n⸻\n\n🎓 Is College Still Worth It in 2025?\n\nWelcome to The Standup – where developers, creators, and founders debate the big questions. In this episode, we sit down with David Heinemeier Hansson (DHH), the creator of Ruby on Rails and Basecamp co-founder.\n\n👉 Is College Worth It in 2025?\n\nWe dive deep into:\n\n⏳ The ROI of college in a post-AI world\n🇺🇸 Why American higher ed is broken (from a Danish POV)\n📉 Are CS degrees still worth $250K?\n💸 The myth of the “four-year luxury cruise”\n🤖 How AI is disrupting the junior dev job market\n🔍 Hiring: Is college even a useful signal anymore?\n🧠 IQ vs wisdom vs vibes – what really matters in hiring\n🧰 Is programming a trade? Should we move to apprenticeships?\n👨‍🌾 Why every dev wants to be a farmer (and why that’s delusional)\n\nWhether you’re considering college, hiring devs, or already knee-deep in student debt, this conversation pulls no punches and may just change how you think about education, hiring, and the future of software development.\n\n⸻\n\n📌 Chapters:\n0:00 intro \n2:05 is college still worth it in 2025? \n5:48 the cost of college in the U.S. vs Europe \n6:57 sponsor: CodeRabbit \n7:42 good point\n9:10 DHH explains the Danish education system \n13:02 is college just a luxury cruise? \n17:45 what are you actually buying with a degree? \n21:20 how companies *really* hire developers \n26:11 Casey’s take: programming should be a trade \n30:40 is college a filter for IQ or just vibes? \n45:50 what skills matter more than a degree \n49:20 how to actually learn to code in 2025 \n53:00 is college redeemable? final thoughts \n57:15 wrap-up & what’s next on the podcast\n\n#IsCollegeWorthIt #DHH #CaseyMuratori #DeveloperPodcast #SoftwareEngineering #TechPodcast #BootcampVsCollege #ProgrammerLife #TechCareers #TheStartupPodcast",
@@ -139,14 +135,14 @@
     },
     {
       "title": "Why Use Windows?! - ",
-      "link": "https://assets.flightcast.com/track-v2/01JWJR5SRYAJ0MF3M0KDQSVTHZ.mp3",
+      "link": "https://episode.flightcast.com/01JWJR5SRYAJ0MF3M0KDQSVTHZ.mp3",
       "pubDate": "Fri, 30 May 2025 22:00:00 -0000",
       "content:encoded": "<p>☕ ssh terminal.shop</p><p>Timestamps:</p><p>0:00 intro / pre-meeting chaos<br>1:48 Welcome to The Standup <br>3:16 Prime explains his two-PC streaming config<br>5:02 Real story: Netflix internal meeting leak scare<br>7:00 Why do game devs still use Windows?<br>9:23 Misread tweet kicks off Linux vs Windows debate<br>10:48 Casey: No one “loves” Windows — they tolerate it<br>13:29 Why studios can’t easily switch from Windows<br>15:47 IT/security &amp; enterprise restrictions on Linux<br>20:15 Why clean-slate devs still choose Windows<br>22:22 Debugger superiority on Windows explained<br>24:48 Steam Deck &amp; RAD debugger could change the tide<br>32:34 Anti-cheat isn’t the main Linux roadblock<br>35:01 Why do *you* use Mac or Linux?<br>36:47 Prime’s Windows pain &amp; Linux love<br>40:26 Linux window managers vs Exposé<br>46:29 The fragility of custom Linux setups<br>51:09 Web dev has even more breaking changes<br>57:27 AI doesn’t fix underlying dev tool problems<br>1:00:04 Trash’s hot take on over-optimizing workflows<br>1:02:35 Prime explains why he optimizes *everything*<br>1:07:30 Valve anecdote: why default setups can be smarter<br>1:14:15 Keyboard nerd segment<br>1:16:11 Joke outro + how to “save” Windows</p><p>Why Do Game Developers STILL Use Windows?? | The Standup<br>🎮💻 In this episode of Standup, we dive deep into the eternal operating system war: Windows vs. macOS vs. Linux. Legendary game dev Casey Muratori (of Handmade Hero fame) joins Primeagen, Trash, and Tee to unpack why game developers still use Windows, even when most modern developers swear by Linux or Mac.</p><p>📌 Topics We Cover:<br>• Why game devs prefer Windows (spoiler: it’s not because they like it)<br>• MacOS vs. Linux vs. Windows for developers<br>• Is GDB actually garbage?<br>• Debugging tools: RAD Debugger, Visual Studio, and why Linux falls short<br>• Why enterprise studios can’t just switch to Linux<br>• Anti-cheat, Steam Deck, and the future of Linux gaming<br>• The unbearable pain of Windows terminals<br>• Why developers obsess over window managers and productivity setups<br>• And of course… the real debate: should devs optimize everything or just get stuff done?</p><p>🔥 Whether you’re a web developer, game dev, Linux power user, or someone just trying to survive corporate IT policies — this one hits every nerve.</p><p>👇 DROP YOUR OS HOT TAKES IN THE COMMENTS 👇</p><p>#GameDev #WindowsVsLinux #DeveloperPodcast #StandupPodcast #CaseyMuratori #LinuxGaming #DevTools #Primeagen #TechPodcast #Debugging #VisualStudio #MacVsPC #WebDev #SoftwareEngineering #SteamDeck #OpenSource #RADDebugger</p>",
       "content:encodedSnippet": "☕ ssh terminal.shop\nTimestamps:\n0:00 intro / pre-meeting chaos\n1:48 Welcome to The Standup \n3:16 Prime explains his two-PC streaming config\n5:02 Real story: Netflix internal meeting leak scare\n7:00 Why do game devs still use Windows?\n9:23 Misread tweet kicks off Linux vs Windows debate\n10:48 Casey: No one “loves” Windows — they tolerate it\n13:29 Why studios can’t easily switch from Windows\n15:47 IT/security & enterprise restrictions on Linux\n20:15 Why clean-slate devs still choose Windows\n22:22 Debugger superiority on Windows explained\n24:48 Steam Deck & RAD debugger could change the tide\n32:34 Anti-cheat isn’t the main Linux roadblock\n35:01 Why do *you* use Mac or Linux?\n36:47 Prime’s Windows pain & Linux love\n40:26 Linux window managers vs Exposé\n46:29 The fragility of custom Linux setups\n51:09 Web dev has even more breaking changes\n57:27 AI doesn’t fix underlying dev tool problems\n1:00:04 Trash’s hot take on over-optimizing workflows\n1:02:35 Prime explains why he optimizes *everything*\n1:07:30 Valve anecdote: why default setups can be smarter\n1:14:15 Keyboard nerd segment\n1:16:11 Joke outro + how to “save” Windows\nWhy Do Game Developers STILL Use Windows?? | The Standup\n🎮💻 In this episode of Standup, we dive deep into the eternal operating system war: Windows vs. macOS vs. Linux. Legendary game dev Casey Muratori (of Handmade Hero fame) joins Primeagen, Trash, and Tee to unpack why game developers still use Windows, even when most modern developers swear by Linux or Mac.\n📌 Topics We Cover:\n• Why game devs prefer Windows (spoiler: it’s not because they like it)\n• MacOS vs. Linux vs. Windows for developers\n• Is GDB actually garbage?\n• Debugging tools: RAD Debugger, Visual Studio, and why Linux falls short\n• Why enterprise studios can’t just switch to Linux\n• Anti-cheat, Steam Deck, and the future of Linux gaming\n• The unbearable pain of Windows terminals\n• Why developers obsess over window managers and productivity setups\n• And of course… the real debate: should devs optimize everything or just get stuff done?\n🔥 Whether you’re a web developer, game dev, Linux power user, or someone just trying to survive corporate IT policies — this one hits every nerve.\n👇 DROP YOUR OS HOT TAKES IN THE COMMENTS 👇\n#GameDev #WindowsVsLinux #DeveloperPodcast #StandupPodcast #CaseyMuratori #LinuxGaming #DevTools #Primeagen #TechPodcast #Debugging #VisualStudio #MacVsPC #WebDev #SoftwareEngineering #SteamDeck #OpenSource #RADDebugger",
       "enclosure": {
-        "length": "55655372",
+        "length": "55655060",
         "type": "audio/mpeg",
-        "url": "https://assets.flightcast.com/track-v2/01JWJR5SRYAJ0MF3M0KDQSVTHZ.mp3"
+        "url": "https://episode.flightcast.com/01JWJR5SRYAJ0MF3M0KDQSVTHZ.mp3"
       },
       "content": "☕ ssh terminal.shop\n\nTimestamps:\n\n0:00 intro / pre-meeting chaos\n1:48 Welcome to The Standup \n3:16 Prime explains his two-PC streaming config\n5:02 Real story: Netflix internal meeting leak scare\n7:00 Why do game devs still use Windows?\n9:23 Misread tweet kicks off Linux vs Windows debate\n10:48 Casey: No one “loves” Windows — they tolerate it\n13:29 Why studios can’t easily switch from Windows\n15:47 IT/security & enterprise restrictions on Linux\n20:15 Why clean-slate devs still choose Windows\n22:22 Debugger superiority on Windows explained\n24:48 Steam Deck & RAD debugger could change the tide\n32:34 Anti-cheat isn’t the main Linux roadblock\n35:01 Why do *you* use Mac or Linux?\n36:47 Prime’s Windows pain & Linux love\n40:26 Linux window managers vs Exposé\n46:29 The fragility of custom Linux setups\n51:09 Web dev has even more breaking changes\n57:27 AI doesn’t fix underlying dev tool problems\n1:00:04 Trash’s hot take on over-optimizing workflows\n1:02:35 Prime explains why he optimizes *everything*\n1:07:30 Valve anecdote: why default setups can be smarter\n1:14:15 Keyboard nerd segment\n1:16:11 Joke outro + how to “save” Windows\n\nWhy Do Game Developers STILL Use Windows?? | The Standup\n🎮💻 In this episode of Standup, we dive deep into the eternal operating system war: Windows vs. macOS vs. Linux. Legendary game dev Casey Muratori (of Handmade Hero fame) joins Primeagen, Trash, and Tee to unpack why game developers still use Windows, even when most modern developers swear by Linux or Mac.\n\n📌 Topics We Cover:\n• Why game devs prefer Windows (spoiler: it’s not because they like it)\n• MacOS vs. Linux vs. Windows for developers\n• Is GDB actually garbage?\n• Debugging tools: RAD Debugger, Visual Studio, and why Linux falls short\n• Why enterprise studios can’t just switch to Linux\n• Anti-cheat, Steam Deck, and the future of Linux gaming\n• The unbearable pain of Windows terminals\n• Why developers obsess over window managers and productivity setups\n• And of course… the real debate: should devs optimize everything or just get stuff done?\n\n🔥 Whether you’re a web developer, game dev, Linux power user, or someone just trying to survive corporate IT policies — this one hits every nerve.\n\n👇 DROP YOUR OS HOT TAKES IN THE COMMENTS 👇\n\n#GameDev #WindowsVsLinux #DeveloperPodcast #StandupPodcast #CaseyMuratori #LinuxGaming #DevTools #Primeagen #TechPodcast #Debugging #VisualStudio #MacVsPC #WebDev #SoftwareEngineering #SteamDeck #OpenSource #RADDebugger",
       "contentSnippet": "☕ ssh terminal.shop\n\nTimestamps:\n\n0:00 intro / pre-meeting chaos\n1:48 Welcome to The Standup \n3:16 Prime explains his two-PC streaming config\n5:02 Real story: Netflix internal meeting leak scare\n7:00 Why do game devs still use Windows?\n9:23 Misread tweet kicks off Linux vs Windows debate\n10:48 Casey: No one “loves” Windows — they tolerate it\n13:29 Why studios can’t easily switch from Windows\n15:47 IT/security & enterprise restrictions on Linux\n20:15 Why clean-slate devs still choose Windows\n22:22 Debugger superiority on Windows explained\n24:48 Steam Deck & RAD debugger could change the tide\n32:34 Anti-cheat isn’t the main Linux roadblock\n35:01 Why do *you* use Mac or Linux?\n36:47 Prime’s Windows pain & Linux love\n40:26 Linux window managers vs Exposé\n46:29 The fragility of custom Linux setups\n51:09 Web dev has even more breaking changes\n57:27 AI doesn’t fix underlying dev tool problems\n1:00:04 Trash’s hot take on over-optimizing workflows\n1:02:35 Prime explains why he optimizes *everything*\n1:07:30 Valve anecdote: why default setups can be smarter\n1:14:15 Keyboard nerd segment\n1:16:11 Joke outro + how to “save” Windows\n\nWhy Do Game Developers STILL Use Windows?? | The Standup\n🎮💻 In this episode of Standup, we dive deep into the eternal operating system war: Windows vs. macOS vs. Linux. Legendary game dev Casey Muratori (of Handmade Hero fame) joins Primeagen, Trash, and Tee to unpack why game developers still use Windows, even when most modern developers swear by Linux or Mac.\n\n📌 Topics We Cover:\n• Why game devs prefer Windows (spoiler: it’s not because they like it)\n• MacOS vs. Linux vs. Windows for developers\n• Is GDB actually garbage?\n• Debugging tools: RAD Debugger, Visual Studio, and why Linux falls short\n• Why enterprise studios can’t just switch to Linux\n• Anti-cheat, Steam Deck, and the future of Linux gaming\n• The unbearable pain of Windows terminals\n• Why developers obsess over window managers and productivity setups\n• And of course… the real debate: should devs optimize everything or just get stuff done?\n\n🔥 Whether you’re a web developer, game dev, Linux power user, or someone just trying to survive corporate IT policies — this one hits every nerve.\n\n👇 DROP YOUR OS HOT TAKES IN THE COMMENTS 👇\n\n#GameDev #WindowsVsLinux #DeveloperPodcast #StandupPodcast #CaseyMuratori #LinuxGaming #DevTools #Primeagen #TechPodcast #Debugging #VisualStudio #MacVsPC #WebDev #SoftwareEngineering #SteamDeck #OpenSource #RADDebugger",
@@ -159,22 +155,42 @@
       }
     },
     {
+      "title": "Don't Clean Code! with Creator of HTMX",
+      "link": "https://episode.flightcast.com/01JW92A2M0AY2GH2Z24S9JBB4N.mp3",
+      "pubDate": "Tue, 27 May 2025 07:00:00 -0000",
+      "content:encoded": "<p>Twitch https://twitch.tv/ThePrimeagen <br>Discord https://discord.gg/ThePrimeagen</p><p>☕ ssh terminal.shop</p><p>📘 Carson’s book: https://hypermedia.systems <br>🧠 Grug Brained Dev: https://grugbrain.dev</p><p>Timestamps:</p><p>0:00 Intro &amp; chaos before the call<br>1:45 Meet Carson Gross (HTMX creator &amp; professor)<br>3:29 What is \"Coding Dirty\"?<br>5:12 Why Carson hates small methods<br>7:24 The myth of clean code and method size<br>10:06 What the data actually says about long functions<br>13:11 Why abstraction is not free<br>15:06 Long vs short functions: maintainability &amp; changeability<br>18:00 Why small functions make debugging harder<br>21:34 Beautiful at any size: the case for fat functions<br>24:19 The myth of good naming solving complexity<br>26:55 TDD, unit tests, and when they help vs hurt<br>35:39 End-to-end testing: the good, the bad, the bloated<br>43:23 Meme culture, cringe, and developer humor</p>",
+      "content:encodedSnippet": "Twitch https://twitch.tv/ThePrimeagen \nDiscord https://discord.gg/ThePrimeagen\n☕ ssh terminal.shop\n📘 Carson’s book: https://hypermedia.systems \n🧠 Grug Brained Dev: https://grugbrain.dev\nTimestamps:\n0:00 Intro & chaos before the call\n1:45 Meet Carson Gross (HTMX creator & professor)\n3:29 What is \"Coding Dirty\"?\n5:12 Why Carson hates small methods\n7:24 The myth of clean code and method size\n10:06 What the data actually says about long functions\n13:11 Why abstraction is not free\n15:06 Long vs short functions: maintainability & changeability\n18:00 Why small functions make debugging harder\n21:34 Beautiful at any size: the case for fat functions\n24:19 The myth of good naming solving complexity\n26:55 TDD, unit tests, and when they help vs hurt\n35:39 End-to-end testing: the good, the bad, the bloated\n43:23 Meme culture, cringe, and developer humor",
+      "enclosure": {
+        "length": "50179691",
+        "type": "audio/mpeg",
+        "url": "https://episode.flightcast.com/01JW92A2M0AY2GH2Z24S9JBB4N.mp3"
+      },
+      "content": "Twitch https://twitch.tv/ThePrimeagen \nDiscord https://discord.gg/ThePrimeagen\n\n☕ ssh terminal.shop\n\n📘 Carson’s book: https://hypermedia.systems \n🧠 Grug Brained Dev: https://grugbrain.dev\n\nTimestamps:\n\n0:00 Intro & chaos before the call\n1:45 Meet Carson Gross (HTMX creator & professor)\n3:29 What is \"Coding Dirty\"?\n5:12 Why Carson hates small methods\n7:24 The myth of clean code and method size\n10:06 What the data actually says about long functions\n13:11 Why abstraction is not free\n15:06 Long vs short functions: maintainability & changeability\n18:00 Why small functions make debugging harder\n21:34 Beautiful at any size: the case for fat functions\n24:19 The myth of good naming solving complexity\n26:55 TDD, unit tests, and when they help vs hurt\n35:39 End-to-end testing: the good, the bad, the bloated\n43:23 Meme culture, cringe, and developer humor",
+      "contentSnippet": "Twitch https://twitch.tv/ThePrimeagen \nDiscord https://discord.gg/ThePrimeagen\n\n☕ ssh terminal.shop\n\n📘 Carson’s book: https://hypermedia.systems \n🧠 Grug Brained Dev: https://grugbrain.dev\n\nTimestamps:\n\n0:00 Intro & chaos before the call\n1:45 Meet Carson Gross (HTMX creator & professor)\n3:29 What is \"Coding Dirty\"?\n5:12 Why Carson hates small methods\n7:24 The myth of clean code and method size\n10:06 What the data actually says about long functions\n13:11 Why abstraction is not free\n15:06 Long vs short functions: maintainability & changeability\n18:00 Why small functions make debugging harder\n21:34 Beautiful at any size: the case for fat functions\n24:19 The myth of good naming solving complexity\n26:55 TDD, unit tests, and when they help vs hurt\n35:39 End-to-end testing: the good, the bad, the bloated\n43:23 Meme culture, cringe, and developer humor",
+      "guid": "flightcast:01JW92A2M0Q8PDY0HVZTMMC718",
+      "isoDate": "2025-05-27T07:00:00.000Z",
+      "itunes": {
+        "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
+        "episode": "9",
+        "episodeType": "full"
+      }
+    },
+    {
       "title": "Airbnb Redesign? URLs are dead?",
-      "link": "https://assets.flightcast.com/track-v2/01JVZ5K014QMAAH31VW83K2P1K.mp3",
+      "link": "https://episode.flightcast.com/01JVZ5K014QMAAH31VW83K2P1K.mp3",
       "pubDate": "Fri, 23 May 2025 04:00:00 -0000",
       "content:encoded": "<p>ssh terminal.shop</p><p></p><p>Timestamps:<br>0:00 – Intro &amp; Time Zone Debate<br>1:27 – Meet Dax: New Guest Introduction<br>2:29 – Elizabeth Holmes' Partner Starts a New Blood Testing Company<br>7:56 – New Pretty URL Browser: Scam Risks &amp; Usability<br>13:39 – Are Clean URLs Safer or More Deceptive for Normies?<br>15:52 – Dax Rants About Airbnb CEO Brian Chesky<br>21:07 – Why Airbnb Experiences Might Fail<br>25:00 – “Trash is a Flat Earther?” <br>30:16 – Absurd Airbnb Quotes About Steve Jobs<br>34:00 – Coinbase Hack: $20M Bounty Instead of Ransom<br>35:44 – Closing Roast: Founders With “Show Muscles”</p>",
       "content:encodedSnippet": "ssh terminal.shop\n\nTimestamps:\n0:00 – Intro & Time Zone Debate\n1:27 – Meet Dax: New Guest Introduction\n2:29 – Elizabeth Holmes' Partner Starts a New Blood Testing Company\n7:56 – New Pretty URL Browser: Scam Risks & Usability\n13:39 – Are Clean URLs Safer or More Deceptive for Normies?\n15:52 – Dax Rants About Airbnb CEO Brian Chesky\n21:07 – Why Airbnb Experiences Might Fail\n25:00 – “Trash is a Flat Earther?” \n30:16 – Absurd Airbnb Quotes About Steve Jobs\n34:00 – Coinbase Hack: $20M Bounty Instead of Ransom\n35:44 – Closing Roast: Founders With “Show Muscles”",
       "enclosure": {
-        "length": "35643277",
+        "length": "26732180",
         "type": "audio/mpeg",
-        "url": "https://assets.flightcast.com/track-v2/01JVZ5K014QMAAH31VW83K2P1K.mp3"
+        "url": "https://episode.flightcast.com/01JVZ5K014QMAAH31VW83K2P1K.mp3"
       },
       "content": "ssh terminal.shop\n\n\n\nTimestamps:\n0:00 – Intro & Time Zone Debate\n1:27 – Meet Dax: New Guest Introduction\n2:29 – Elizabeth Holmes' Partner Starts a New Blood Testing Company\n7:56 – New Pretty URL Browser: Scam Risks & Usability\n13:39 – Are Clean URLs Safer or More Deceptive for Normies?\n15:52 – Dax Rants About Airbnb CEO Brian Chesky\n21:07 – Why Airbnb Experiences Might Fail\n25:00 – “Trash is a Flat Earther?” \n30:16 – Absurd Airbnb Quotes About Steve Jobs\n34:00 – Coinbase Hack: $20M Bounty Instead of Ransom\n35:44 – Closing Roast: Founders With “Show Muscles”",
       "contentSnippet": "ssh terminal.shop\n\n\n\nTimestamps:\n0:00 – Intro & Time Zone Debate\n1:27 – Meet Dax: New Guest Introduction\n2:29 – Elizabeth Holmes' Partner Starts a New Blood Testing Company\n7:56 – New Pretty URL Browser: Scam Risks & Usability\n13:39 – Are Clean URLs Safer or More Deceptive for Normies?\n15:52 – Dax Rants About Airbnb CEO Brian Chesky\n21:07 – Why Airbnb Experiences Might Fail\n25:00 – “Trash is a Flat Earther?” \n30:16 – Absurd Airbnb Quotes About Steve Jobs\n34:00 – Coinbase Hack: $20M Bounty Instead of Ransom\n35:44 – Closing Roast: Founders With “Show Muscles”",
       "guid": "flightcast:01JVZ5K014K80MA6N490FDD4K5",
       "isoDate": "2025-05-23T04:00:00.000Z",
       "itunes": {
-        "duration": "37:07",
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
         "episode": "8",
         "season": "1",
@@ -183,21 +199,20 @@
     },
     {
       "title": "Prime installs Arch?",
-      "link": "https://assets.flightcast.com/track-v2/01JVFA97QQKJ0C50XXSPRSS5S1.mp3",
+      "link": "https://episode.flightcast.com/01JVFA97QQKJ0C50XXSPRSS5S1.mp3",
       "pubDate": "Mon, 19 May 2025 04:00:00 -0000",
       "content:encoded": "<p>The gang talks arch, linux, windows, and of course, your favorite goofs &amp; gaffes.</p><p></p><p>ssh terminal.shop, btw</p>",
       "content:encodedSnippet": "The gang talks arch, linux, windows, and of course, your favorite goofs & gaffes.\n\nssh terminal.shop, btw",
       "enclosure": {
-        "length": "46314611",
+        "length": "34735681",
         "type": "audio/mpeg",
-        "url": "https://assets.flightcast.com/track-v2/01JVFA97QQKJ0C50XXSPRSS5S1.mp3"
+        "url": "https://episode.flightcast.com/01JVFA97QQKJ0C50XXSPRSS5S1.mp3"
       },
       "content": "The gang talks arch, linux, windows, and of course, your favorite goofs & gaffes.\n\n\n\nssh terminal.shop, btw",
       "contentSnippet": "The gang talks arch, linux, windows, and of course, your favorite goofs & gaffes.\n\n\n\nssh terminal.shop, btw",
       "guid": "flightcast:01JVFA97QQGZBWHJR72PY86P5V",
       "isoDate": "2025-05-19T04:00:00.000Z",
       "itunes": {
-        "duration": "48:14",
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
         "episode": "7",
         "season": "1",
@@ -206,14 +221,14 @@
     },
     {
       "title": "How BAD is Test Driven Development?",
-      "link": "https://assets.flightcast.com/track-v2/01JV87T0FQ2BVNK7S3ENXJJ2ZR.mp3",
+      "link": "https://episode.flightcast.com/01JV87T0FQ2BVNK7S3ENXJJ2ZR.mp3",
       "pubDate": "Wed, 14 May 2025 04:00:00 -0000",
       "content:encoded": "<p>The gang discusses Test Driven Development and laughs a lot. As usual ;)</p><p></p><p>Don’t forget, ssh terminal.shop</p>",
       "content:encodedSnippet": "The gang discusses Test Driven Development and laughs a lot. As usual ;)\n\nDon’t forget, ssh terminal.shop",
       "enclosure": {
-        "length": "42962578",
+        "length": "32221656",
         "type": "audio/mpeg",
-        "url": "https://assets.flightcast.com/track-v2/01JV87T0FQ2BVNK7S3ENXJJ2ZR.mp3"
+        "url": "https://episode.flightcast.com/01JV87T0FQ2BVNK7S3ENXJJ2ZR.mp3"
       },
       "content": "The gang discusses Test Driven Development and laughs a lot. As usual ;)\n\n\n\nDon’t forget, ssh terminal.shop",
       "contentSnippet": "The gang discusses Test Driven Development and laughs a lot. As usual ;)\n\n\n\nDon’t forget, ssh terminal.shop",
@@ -228,14 +243,14 @@
     },
     {
       "title": "Making a Video Game GOOD!",
-      "link": "https://assets.flightcast.com/track-v2/01JV2JC5PD4PGJP1RS75CR9ZT8.mp3",
+      "link": "https://episode.flightcast.com/01JV2JC5PD4PGJP1RS75CR9ZT8.mp3",
       "pubDate": "Mon, 12 May 2025 04:00:00 -0000",
       "content:encoded": "<p>This time we have Casey and Prime talking about how to make a video game good. It’s a bit of a departure from the normal format, but we think you’ll enjoy it :)</p>",
       "content:encodedSnippet": "This time we have Casey and Prime talking about how to make a video game good. It’s a bit of a departure from the normal format, but we think you’ll enjoy it :)",
       "enclosure": {
-        "length": "30909889",
+        "length": "23182140",
         "type": "audio/mpeg",
-        "url": "https://assets.flightcast.com/track-v2/01JV2JC5PD4PGJP1RS75CR9ZT8.mp3"
+        "url": "https://episode.flightcast.com/01JV2JC5PD4PGJP1RS75CR9ZT8.mp3"
       },
       "content": "This time we have Casey and Prime talking about how to make a video game good. It’s a bit of a departure from the normal format, but we think you’ll enjoy it :)",
       "contentSnippet": "This time we have Casey and Prime talking about how to make a video game good. It’s a bit of a departure from the normal format, but we think you’ll enjoy it :)",
@@ -243,7 +258,6 @@
       "isoDate": "2025-05-12T04:00:00.000Z",
       "itunes": {
         "author": "The Standup",
-        "duration": "32:11",
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
         "episode": "3",
         "season": "1",
@@ -252,21 +266,20 @@
     },
     {
       "title": "This Doesn't Look Good for AI",
-      "link": "https://assets.flightcast.com/track-v2/01JV2P32Y3V2Q76WMZ99EDNBT2.mp3",
+      "link": "https://episode.flightcast.com/01JV2P32Y3V2Q76WMZ99EDNBT2.mp3",
       "pubDate": "Mon, 12 May 2025 04:00:00 -0000",
       "content:encoded": "<p>ssh terminal.shop</p>",
       "content:encodedSnippet": "ssh terminal.shop",
       "enclosure": {
-        "length": "56998483",
+        "length": "42748585",
         "type": "audio/mpeg",
-        "url": "https://assets.flightcast.com/track-v2/01JV2P32Y3V2Q76WMZ99EDNBT2.mp3"
+        "url": "https://episode.flightcast.com/01JV2P32Y3V2Q76WMZ99EDNBT2.mp3"
       },
       "content": "ssh terminal.shop",
       "contentSnippet": "ssh terminal.shop",
       "guid": "flightcast:01JV2P32Y3EMBK1SCPF2N37JJP",
       "isoDate": "2025-05-12T04:00:00.000Z",
       "itunes": {
-        "duration": "59:22",
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
         "episode": "4",
         "season": "1",
@@ -275,14 +288,14 @@
     },
     {
       "title": "Cheat on Everything?",
-      "link": "https://assets.flightcast.com/track-v2/01JV2PYG6Y6Y4NX74FFRC0GNWT.mp3",
+      "link": "https://episode.flightcast.com/01JV2PYG6Y6Y4NX74FFRC0GNWT.mp3",
       "pubDate": "Mon, 12 May 2025 04:00:00 -0000",
       "content:encoded": "<p>ssh terminal.shop</p>",
       "content:encodedSnippet": "ssh terminal.shop",
       "enclosure": {
-        "length": "55132714",
+        "length": "41349258",
         "type": "audio/mpeg",
-        "url": "https://assets.flightcast.com/track-v2/01JV2PYG6Y6Y4NX74FFRC0GNWT.mp3"
+        "url": "https://episode.flightcast.com/01JV2PYG6Y6Y4NX74FFRC0GNWT.mp3"
       },
       "content": "ssh terminal.shop",
       "contentSnippet": "ssh terminal.shop",
@@ -297,21 +310,20 @@
     },
     {
       "title": "Amazon fires middle management? Did AI kill game dev?I",
-      "link": "https://assets.flightcast.com/track-v2/w5nj6vngqglx0xr09snj5uv6.mp3",
+      "link": "https://episode.flightcast.com/w5nj6vngqglx0xr09snj5uv6.mp3",
       "pubDate": "Thu, 08 May 2025 04:00:00 -0000",
       "content:encoded": "<p>ssh terminal.shop</p>",
       "content:encodedSnippet": "ssh terminal.shop",
       "enclosure": {
-        "length": "47800456",
+        "length": "35850065",
         "type": "audio/mpeg",
-        "url": "https://assets.flightcast.com/track-v2/w5nj6vngqglx0xr09snj5uv6.mp3"
+        "url": "https://episode.flightcast.com/w5nj6vngqglx0xr09snj5uv6.mp3"
       },
       "content": "ssh terminal.shop",
       "contentSnippet": "ssh terminal.shop",
       "guid": "flightcast:w5nj6vngqglx0xr09snj5uv6",
       "isoDate": "2025-05-08T04:00:00.000Z",
       "itunes": {
-        "duration": "49:47",
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
         "episode": "2",
         "season": "1",
@@ -320,21 +332,20 @@
     },
     {
       "title": "LeetCode is dead? Privacy is done? ",
-      "link": "https://assets.flightcast.com/track-v2/z8byo7sj16g3k4dzw6f1zoni.mp3",
+      "link": "https://episode.flightcast.com/z8byo7sj16g3k4dzw6f1zoni.mp3",
       "pubDate": "Wed, 07 May 2025 04:00:00 -0000",
       "content:encoded": "<p>The very first episode. You’ll like it :)</p><p></p><p>Also, ssh terminal.shop ;)</p>",
       "content:encodedSnippet": "The very first episode. You’ll like it :)\n\nAlso, ssh terminal.shop ;)",
       "enclosure": {
-        "length": "40846869",
+        "length": "30634874",
         "type": "audio/mpeg",
-        "url": "https://assets.flightcast.com/track-v2/z8byo7sj16g3k4dzw6f1zoni.mp3"
+        "url": "https://episode.flightcast.com/z8byo7sj16g3k4dzw6f1zoni.mp3"
       },
       "content": "The very first episode. You’ll like it :)\n\n\n\nAlso, ssh terminal.shop ;)",
       "contentSnippet": "The very first episode. You’ll like it :)\n\n\n\nAlso, ssh terminal.shop ;)",
       "guid": "flightcast:z8byo7sj16g3k4dzw6f1zoni",
       "isoDate": "2025-05-07T04:00:00.000Z",
       "itunes": {
-        "duration": "42:32",
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
         "episode": "1",
         "season": "1",
