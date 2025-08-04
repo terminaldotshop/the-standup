@@ -1,6 +1,28 @@
 {
   "items": [
     {
+      "title": "Software Horror Stories",
+      "link": "https://episode.flightcast.com/01K1GZJZ6CRQVS23PCZB2MXCRS.mp3",
+      "pubDate": "Mon, 04 Aug 2025 04:00:00 -0000",
+      "content:encoded": "<p class=\"text-node\">🔗 Sponsored by Code Rabbit <a class=\"link\" href=\"https://coderabbit.link/primeagen-vscode\">https://coderabbit.link/primeagen-vscode</a> #sponsored</p><p class=\"text-node\"><br>## 📌 Chapters:<br>00:00:00 - Intro &amp; Teejs Medical Records Disaster<br>00:04:20 - Code Rabbit Sponsor #ad<br>00:05:04 - Nobody wants to work in Healthcare<br>00:07:05 - Healthcare testing process<br>00:12:00 - Epic's Development Pipeline Deep Dive<br>00:21:33 - Load Testing Nightmare<br>00:25:00 - The 45-Minute Site Outage<br>00:27:50 - Class Registration Disaster<br>00:32:00 - Everything Goes Wrong in Production<br>00:35:55 - Netflix Static Variable Mistake<br>00:39:00 - The Boss Who Spotted the Obvious Bug<br>00:42:00 - Lady Gaga's Broken Countdown Billboard<br>00:47:00 - 10 Requests /s Disaster<br>00:49:30 - GraphQL Query Explosion</p><p class=\"text-node\"><br>## Key Topics:<br>- Medical software development challenges and patient safety<br>- Epic Systems development process and MUMPS language<br>- Load testing disasters and production outages<br>- Netflix development war stories<br>- Server-side rendering performance pitfalls<br>- GraphQL resolver optimization nightmares<br>- The importance of proper testing before production releases</p><p class=\"text-node\"><br>## Hosts:<br>- **TJ** (@teej_dv) - Epic Systems horror stories<br>- **Trash Dev** (@trash_dev) - Load testing and Next.js disasters<br>- **Prime** (@ThePrimeagen) - Netflix static variable nightmares</p>",
+      "content:encodedSnippet": "🔗 Sponsored by Code Rabbit https://coderabbit.link/primeagen-vscode #sponsored\n\n## 📌 Chapters:\n00:00:00 - Intro & Teejs Medical Records Disaster\n00:04:20 - Code Rabbit Sponsor #ad\n00:05:04 - Nobody wants to work in Healthcare\n00:07:05 - Healthcare testing process\n00:12:00 - Epic's Development Pipeline Deep Dive\n00:21:33 - Load Testing Nightmare\n00:25:00 - The 45-Minute Site Outage\n00:27:50 - Class Registration Disaster\n00:32:00 - Everything Goes Wrong in Production\n00:35:55 - Netflix Static Variable Mistake\n00:39:00 - The Boss Who Spotted the Obvious Bug\n00:42:00 - Lady Gaga's Broken Countdown Billboard\n00:47:00 - 10 Requests /s Disaster\n00:49:30 - GraphQL Query Explosion\n\n## Key Topics:\n- Medical software development challenges and patient safety\n- Epic Systems development process and MUMPS language\n- Load testing disasters and production outages\n- Netflix development war stories\n- Server-side rendering performance pitfalls\n- GraphQL resolver optimization nightmares\n- The importance of proper testing before production releases\n\n## Hosts:\n- **TJ** (@teej_dv) - Epic Systems horror stories\n- **Trash Dev** (@trash_dev) - Load testing and Next.js disasters\n- **Prime** (@ThePrimeagen) - Netflix static variable nightmares",
+      "enclosure": {
+        "length": "36532174",
+        "type": "audio/mpeg",
+        "url": "https://episode.flightcast.com/01K1GZJZ6CRQVS23PCZB2MXCRS.mp3"
+      },
+      "content": "🔗 Sponsored by Code Rabbit https://coderabbit.link/primeagen-vscode #sponsored\n\n\n## 📌 Chapters:\n00:00:00 - Intro & Teejs Medical Records Disaster\n00:04:20 - Code Rabbit Sponsor #ad\n00:05:04 - Nobody wants to work in Healthcare\n00:07:05 - Healthcare testing process\n00:12:00 - Epic's Development Pipeline Deep Dive\n00:21:33 - Load Testing Nightmare\n00:25:00 - The 45-Minute Site Outage\n00:27:50 - Class Registration Disaster\n00:32:00 - Everything Goes Wrong in Production\n00:35:55 - Netflix Static Variable Mistake\n00:39:00 - The Boss Who Spotted the Obvious Bug\n00:42:00 - Lady Gaga's Broken Countdown Billboard\n00:47:00 - 10 Requests /s Disaster\n00:49:30 - GraphQL Query Explosion\n\n\n## Key Topics:\n- Medical software development challenges and patient safety\n- Epic Systems development process and MUMPS language\n- Load testing disasters and production outages\n- Netflix development war stories\n- Server-side rendering performance pitfalls\n- GraphQL resolver optimization nightmares\n- The importance of proper testing before production releases\n\n\n## Hosts:\n- **TJ** (@teej_dv) - Epic Systems horror stories\n- **Trash Dev** (@trash_dev) - Load testing and Next.js disasters\n- **Prime** (@ThePrimeagen) - Netflix static variable nightmares",
+      "contentSnippet": "🔗 Sponsored by Code Rabbit https://coderabbit.link/primeagen-vscode #sponsored\n\n\n## 📌 Chapters:\n00:00:00 - Intro & Teejs Medical Records Disaster\n00:04:20 - Code Rabbit Sponsor #ad\n00:05:04 - Nobody wants to work in Healthcare\n00:07:05 - Healthcare testing process\n00:12:00 - Epic's Development Pipeline Deep Dive\n00:21:33 - Load Testing Nightmare\n00:25:00 - The 45-Minute Site Outage\n00:27:50 - Class Registration Disaster\n00:32:00 - Everything Goes Wrong in Production\n00:35:55 - Netflix Static Variable Mistake\n00:39:00 - The Boss Who Spotted the Obvious Bug\n00:42:00 - Lady Gaga's Broken Countdown Billboard\n00:47:00 - 10 Requests /s Disaster\n00:49:30 - GraphQL Query Explosion\n\n\n## Key Topics:\n- Medical software development challenges and patient safety\n- Epic Systems development process and MUMPS language\n- Load testing disasters and production outages\n- Netflix development war stories\n- Server-side rendering performance pitfalls\n- GraphQL resolver optimization nightmares\n- The importance of proper testing before production releases\n\n\n## Hosts:\n- **TJ** (@teej_dv) - Epic Systems horror stories\n- **Trash Dev** (@trash_dev) - Load testing and Next.js disasters\n- **Prime** (@ThePrimeagen) - Netflix static variable nightmares",
+      "guid": "flightcast:01K1GZJZ6CYQGDHHE86CHSNND1",
+      "isoDate": "2025-08-04T04:00:00.000Z",
+      "itunes": {
+        "image": "https://assets.flightcast.com/V2Uploads/ibql3yufneslfscullre41ud/01K1GZS2Y0DHVC18WGHV6ZJ79P/maxresdefault__7_.jpg",
+        "episode": "23",
+        "season": "1",
+        "episodeType": "full"
+      }
+    },
+    {
       "title": "Tailwind Creator on the Challenges of Open Source",
       "link": "https://episode.flightcast.com/01K1GZ9KBFNDEFJRVX3FHDS2E5.mp3",
       "pubDate": "Sun, 03 Aug 2025 04:00:00 -0000",
@@ -451,11 +473,11 @@
   },
   "title": "The Standup",
   "description": "ThePrimeagen and Teej host The Standup - a podcast where we talk about software, life, memes and more. It’s fun, it can be informative and sometimes Trash is also here. Joined by regular guests like Casey Muratori, Carson Gross and more!",
-  "pubDate": "Sun, 03 Aug 2025 04:00:00 -0000",
+  "pubDate": "Mon, 04 Aug 2025 04:00:00 -0000",
   "generator": "Flightcast RSS Feed Generator",
   "link": "https://rss.flightcast.com/pmgqiszts7kfhopzaq8el6yw",
   "language": "en-us",
-  "lastBuildDate": "Sun, 03 Aug 2025 04:00:00 -0000",
+  "lastBuildDate": "Mon, 04 Aug 2025 04:00:00 -0000",
   "docs": "https://rss.flightcast.com/pmgqiszts7kfhopzaq8el6yw",
   "itunes": {
     "owner": {
