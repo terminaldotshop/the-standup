@@ -1,6 +1,28 @@
 {
   "items": [
     {
+      "title": "Casey Muratori's Origin Story",
+      "link": "https://episode.flightcast.com/01K2MBJAKSPQM14833S35VYVQA.mp3",
+      "pubDate": "Thu, 14 Aug 2025 04:00:00 -0000",
+      "content:encoded": "<p class=\"text-node\">🔗 Sponsored by Code Rabbit <a class=\"link\" href=\"https://coderabbit.link/primeagen-vscode\">https://coderabbit.link/primeagen-vscode</a> #sponsored</p><p class=\"text-node\"><br><a class=\"link\" href=\"https://twitch.tv/ThePrimeagen\">https://twitch.tv/ThePrimeagen</a> - I Stream 5 days a Week<br><a class=\"link\" href=\"https://twitter.com/terminaldotshop\">https://twitter.com/terminaldotshop</a> - Want to order coffee over SSH?<br>ssh <a class=\"link\" href=\"http://terminal.shop\">terminal.shop</a></p><p class=\"text-node\"><br>Hosts:<br>@ThePrimeagen<br>@trash_dev<br>@teej_dv<br>@caseymuratori<br>For more about Casey: <a class=\"link\" href=\"https://www.computerenhance.com\">https://www.computerenhance.com</a><br>Become Backend Dev: <a class=\"link\" href=\"https://boot.dev/prime\">https://boot.dev/prime</a><br>(plus i make courses for them)<br>This is also the best way to support me is to support yourself becoming a better backend engineer.<br>Great News?  Want me to research and create video????: <a class=\"link\" href=\"https://www.reddit.com/r/ThePrimeagen\">https://www.reddit.com/r/ThePrimeagen</a><br>Kinesis Advantage 360: <a class=\"link\" href=\"https://bit.ly/Prime-Kinesis\">https://bit.ly/Prime-Kinesis</a><br>Discord <a class=\"link\" href=\"https://discord.gg/ThePrimeagen\">https://discord.gg/ThePrimeagen</a><br>00:00:00 - Intro<br>00:01:12 - Running Galaga at compile time<br>00:03:09 - J AI<br>00:05:36 - The Ginger Bill Business model<br>00:08:24 - OCaml + Rust features<br>00:10:14 - Back on topic<br>00:15:11 - Handmade Hero and inspiring others<br>00:19:03 - Conferences</p>",
+      "content:encodedSnippet": "🔗 Sponsored by Code Rabbit https://coderabbit.link/primeagen-vscode #sponsored\n\nhttps://twitch.tv/ThePrimeagen - I Stream 5 days a Week\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\nHosts:\n@ThePrimeagen\n@trash_dev\n@teej_dv\n@caseymuratori\nFor more about Casey: https://www.computerenhance.com\nBecome Backend Dev: https://boot.dev/prime\n(plus i make courses for them)\nThis is also the best way to support me is to support yourself becoming a better backend engineer.\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\nKinesis Advantage 360: https://bit.ly/Prime-Kinesis\nDiscord https://discord.gg/ThePrimeagen\n00:00:00 - Intro\n00:01:12 - Running Galaga at compile time\n00:03:09 - J AI\n00:05:36 - The Ginger Bill Business model\n00:08:24 - OCaml + Rust features\n00:10:14 - Back on topic\n00:15:11 - Handmade Hero and inspiring others\n00:19:03 - Conferences",
+      "enclosure": {
+        "length": "9161143",
+        "type": "audio/mpeg",
+        "url": "https://episode.flightcast.com/01K2MBJAKSPQM14833S35VYVQA.mp3"
+      },
+      "content": "🔗 Sponsored by Code Rabbit https://coderabbit.link/primeagen-vscode #sponsored\n\n\nhttps://twitch.tv/ThePrimeagen - I Stream 5 days a Week\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\n\nHosts:\n@ThePrimeagen\n@trash_dev\n@teej_dv\n@caseymuratori\nFor more about Casey: https://www.computerenhance.com\nBecome Backend Dev: https://boot.dev/prime\n(plus i make courses for them)\nThis is also the best way to support me is to support yourself becoming a better backend engineer.\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\nKinesis Advantage 360: https://bit.ly/Prime-Kinesis\nDiscord https://discord.gg/ThePrimeagen\n00:00:00 - Intro\n00:01:12 - Running Galaga at compile time\n00:03:09 - J AI\n00:05:36 - The Ginger Bill Business model\n00:08:24 - OCaml + Rust features\n00:10:14 - Back on topic\n00:15:11 - Handmade Hero and inspiring others\n00:19:03 - Conferences",
+      "contentSnippet": "🔗 Sponsored by Code Rabbit https://coderabbit.link/primeagen-vscode #sponsored\n\n\nhttps://twitch.tv/ThePrimeagen - I Stream 5 days a Week\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\n\nHosts:\n@ThePrimeagen\n@trash_dev\n@teej_dv\n@caseymuratori\nFor more about Casey: https://www.computerenhance.com\nBecome Backend Dev: https://boot.dev/prime\n(plus i make courses for them)\nThis is also the best way to support me is to support yourself becoming a better backend engineer.\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\nKinesis Advantage 360: https://bit.ly/Prime-Kinesis\nDiscord https://discord.gg/ThePrimeagen\n00:00:00 - Intro\n00:01:12 - Running Galaga at compile time\n00:03:09 - J AI\n00:05:36 - The Ginger Bill Business model\n00:08:24 - OCaml + Rust features\n00:10:14 - Back on topic\n00:15:11 - Handmade Hero and inspiring others\n00:19:03 - Conferences",
+      "guid": "flightcast:01K2MBJAKSHY7B6WN4VDNTA3BT",
+      "isoDate": "2025-08-14T04:00:00.000Z",
+      "itunes": {
+        "image": "https://assets.flightcast.com/V2Uploads/ibql3yufneslfscullre41ud/01K2MBMSH05AR6YJCTRM2HD705/maxresdefault__1_.jpg",
+        "episode": "24",
+        "season": "1",
+        "episodeType": "full"
+      }
+    },
+    {
       "title": "Software Horror Stories",
       "link": "https://episode.flightcast.com/01K1GZJZ6CRQVS23PCZB2MXCRS.mp3",
       "pubDate": "Mon, 04 Aug 2025 04:00:00 -0000",
@@ -352,29 +374,6 @@
       }
     },
     {
-      "title": "Making a Video Game GOOD!",
-      "link": "https://episode.flightcast.com/01JV2JC5PD4PGJP1RS75CR9ZT8.mp3",
-      "pubDate": "Mon, 12 May 2025 04:00:00 -0000",
-      "content:encoded": "<p>This time we have Casey and Prime talking about how to make a video game good. It’s a bit of a departure from the normal format, but we think you’ll enjoy it :)</p>",
-      "content:encodedSnippet": "This time we have Casey and Prime talking about how to make a video game good. It’s a bit of a departure from the normal format, but we think you’ll enjoy it :)",
-      "enclosure": {
-        "length": "23182140",
-        "type": "audio/mpeg",
-        "url": "https://episode.flightcast.com/01JV2JC5PD4PGJP1RS75CR9ZT8.mp3"
-      },
-      "content": "This time we have Casey and Prime talking about how to make a video game good. It’s a bit of a departure from the normal format, but we think you’ll enjoy it :)",
-      "contentSnippet": "This time we have Casey and Prime talking about how to make a video game good. It’s a bit of a departure from the normal format, but we think you’ll enjoy it :)",
-      "guid": "flightcast:01JV2JC5PDGR828T1564B9R18H",
-      "isoDate": "2025-05-12T04:00:00.000Z",
-      "itunes": {
-        "author": "The Standup",
-        "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
-        "episode": "3",
-        "season": "1",
-        "episodeType": "full"
-      }
-    },
-    {
       "title": "This Doesn't Look Good for AI",
       "link": "https://episode.flightcast.com/01JV2P32Y3V2Q76WMZ99EDNBT2.mp3",
       "pubDate": "Mon, 12 May 2025 04:00:00 -0000",
@@ -414,6 +413,29 @@
       "itunes": {
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
         "episode": "5",
+        "season": "1",
+        "episodeType": "full"
+      }
+    },
+    {
+      "title": "Making a Video Game GOOD!",
+      "link": "https://episode.flightcast.com/01JV2JC5PD4PGJP1RS75CR9ZT8.mp3",
+      "pubDate": "Mon, 12 May 2025 04:00:00 -0000",
+      "content:encoded": "<p>This time we have Casey and Prime talking about how to make a video game good. It’s a bit of a departure from the normal format, but we think you’ll enjoy it :)</p>",
+      "content:encodedSnippet": "This time we have Casey and Prime talking about how to make a video game good. It’s a bit of a departure from the normal format, but we think you’ll enjoy it :)",
+      "enclosure": {
+        "length": "23182140",
+        "type": "audio/mpeg",
+        "url": "https://episode.flightcast.com/01JV2JC5PD4PGJP1RS75CR9ZT8.mp3"
+      },
+      "content": "This time we have Casey and Prime talking about how to make a video game good. It’s a bit of a departure from the normal format, but we think you’ll enjoy it :)",
+      "contentSnippet": "This time we have Casey and Prime talking about how to make a video game good. It’s a bit of a departure from the normal format, but we think you’ll enjoy it :)",
+      "guid": "flightcast:01JV2JC5PDGR828T1564B9R18H",
+      "isoDate": "2025-05-12T04:00:00.000Z",
+      "itunes": {
+        "author": "The Standup",
+        "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
+        "episode": "3",
         "season": "1",
         "episodeType": "full"
       }
@@ -473,11 +495,11 @@
   },
   "title": "The Standup",
   "description": "ThePrimeagen and Teej host The Standup - a podcast where we talk about software, life, memes and more. It’s fun, it can be informative and sometimes Trash is also here. Joined by regular guests like Casey Muratori, Carson Gross and more!",
-  "pubDate": "Mon, 04 Aug 2025 04:00:00 -0000",
+  "pubDate": "Thu, 14 Aug 2025 13:16:04 -0000",
   "generator": "Flightcast RSS Feed Generator",
   "link": "https://rss.flightcast.com/pmgqiszts7kfhopzaq8el6yw",
   "language": "en-us",
-  "lastBuildDate": "Mon, 04 Aug 2025 04:00:00 -0000",
+  "lastBuildDate": "Thu, 14 Aug 2025 13:16:04 -0000",
   "docs": "https://rss.flightcast.com/pmgqiszts7kfhopzaq8el6yw",
   "itunes": {
     "owner": {
