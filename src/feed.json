@@ -1,6 +1,28 @@
 {
   "items": [
     {
+      "title": "The Evolution of Programming",
+      "link": "https://episode.flightcast.com/01K2MBQ062GWSE3B96XCY2601H.mp3",
+      "pubDate": "Sat, 16 Aug 2025 04:00:00 -0000",
+      "content:encoded": "<p class=\"text-node\">Ship Faster with Neon Postgres #ad</p><p class=\"text-node\"><br>Neon comes with Branching, Schema Diff, and Instant Point-In-Time Recovery to help you ship fast and recover faster. Get the free plan at </p><p class=\"text-node\"><br><a class=\"link\" href=\"https://twitch.tv/ThePrimeagen\">https://twitch.tv/ThePrimeagen</a> - I Stream 5 days a Week<br><a class=\"link\" href=\"https://twitter.com/terminaldotshop\">https://twitter.com/terminaldotshop</a> - Want to order coffee over SSH?<br>ssh <a class=\"link\" href=\"http://terminal.shop\">terminal.shop</a><br><br>📍 Chapters:<br>00:00:00 - Prime is a Great Host<br>00:04:06 - Neon #ad<br>00:05:04 - Giving a 2 hour talk<br>00:10:16 - C++ Launch Night<br>00:14:15 - Mount Rushmore of Programming Languages<br>00:18:40 - What languages were influential and died off?<br>00:24:00 - What is Plex<br>00:42:00 - The Evolution of Languages<br>00:45:40 - How Casey does Research + HOPL 5<br>00:56:95 - Casey's Next Deep Dive<br>01:00:00 - The Rise of Programming Historians</p>",
+      "content:encodedSnippet": "Ship Faster with Neon Postgres #ad\n\nNeon comes with Branching, Schema Diff, and Instant Point-In-Time Recovery to help you ship fast and recover faster. Get the free plan at \n\nhttps://twitch.tv/ThePrimeagen - I Stream 5 days a Week\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n📍 Chapters:\n00:00:00 - Prime is a Great Host\n00:04:06 - Neon #ad\n00:05:04 - Giving a 2 hour talk\n00:10:16 - C++ Launch Night\n00:14:15 - Mount Rushmore of Programming Languages\n00:18:40 - What languages were influential and died off?\n00:24:00 - What is Plex\n00:42:00 - The Evolution of Languages\n00:45:40 - How Casey does Research + HOPL 5\n00:56:95 - Casey's Next Deep Dive\n01:00:00 - The Rise of Programming Historians",
+      "enclosure": {
+        "length": "52706429",
+        "type": "audio/mpeg",
+        "url": "https://episode.flightcast.com/01K2MBQ062GWSE3B96XCY2601H.mp3"
+      },
+      "content": "Ship Faster with Neon Postgres #ad\n\n\nNeon comes with Branching, Schema Diff, and Instant Point-In-Time Recovery to help you ship fast and recover faster. Get the free plan at \n\n\nhttps://twitch.tv/ThePrimeagen - I Stream 5 days a Week\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\n📍 Chapters:\n00:00:00 - Prime is a Great Host\n00:04:06 - Neon #ad\n00:05:04 - Giving a 2 hour talk\n00:10:16 - C++ Launch Night\n00:14:15 - Mount Rushmore of Programming Languages\n00:18:40 - What languages were influential and died off?\n00:24:00 - What is Plex\n00:42:00 - The Evolution of Languages\n00:45:40 - How Casey does Research + HOPL 5\n00:56:95 - Casey's Next Deep Dive\n01:00:00 - The Rise of Programming Historians",
+      "contentSnippet": "Ship Faster with Neon Postgres #ad\n\n\nNeon comes with Branching, Schema Diff, and Instant Point-In-Time Recovery to help you ship fast and recover faster. Get the free plan at \n\n\nhttps://twitch.tv/ThePrimeagen - I Stream 5 days a Week\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\n📍 Chapters:\n00:00:00 - Prime is a Great Host\n00:04:06 - Neon #ad\n00:05:04 - Giving a 2 hour talk\n00:10:16 - C++ Launch Night\n00:14:15 - Mount Rushmore of Programming Languages\n00:18:40 - What languages were influential and died off?\n00:24:00 - What is Plex\n00:42:00 - The Evolution of Languages\n00:45:40 - How Casey does Research + HOPL 5\n00:56:95 - Casey's Next Deep Dive\n01:00:00 - The Rise of Programming Historians",
+      "guid": "flightcast:01K2MBQ062X129ES49T4CMJGXW",
+      "isoDate": "2025-08-16T04:00:00.000Z",
+      "itunes": {
+        "image": "https://assets.flightcast.com/V2Uploads/ibql3yufneslfscullre41ud/01K2MBRMYSDEBA1E37QQRQ0SRJ/maxresdefault__2_.jpg",
+        "episode": "25",
+        "season": "1",
+        "episodeType": "full"
+      }
+    },
+    {
       "title": "Casey Muratori's Origin Story",
       "link": "https://episode.flightcast.com/01K2MBJAKSPQM14833S35VYVQA.mp3",
       "pubDate": "Thu, 14 Aug 2025 04:00:00 -0000",
@@ -495,11 +517,11 @@
   },
   "title": "The Standup",
   "description": "ThePrimeagen and Teej host The Standup - a podcast where we talk about software, life, memes and more. It’s fun, it can be informative and sometimes Trash is also here. Joined by regular guests like Casey Muratori, Carson Gross and more!",
-  "pubDate": "Thu, 14 Aug 2025 13:16:04 -0000",
+  "pubDate": "Sat, 16 Aug 2025 04:00:00 -0000",
   "generator": "Flightcast RSS Feed Generator",
   "link": "https://rss.flightcast.com/pmgqiszts7kfhopzaq8el6yw",
   "language": "en-us",
-  "lastBuildDate": "Thu, 14 Aug 2025 13:16:04 -0000",
+  "lastBuildDate": "Sat, 16 Aug 2025 04:00:00 -0000",
   "docs": "https://rss.flightcast.com/pmgqiszts7kfhopzaq8el6yw",
   "itunes": {
     "owner": {
