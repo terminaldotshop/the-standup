@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "2 Language Creators vs 2 Idiots",
+      "link": "https://episode.flightcast.com/01K2MBTS4GN7M20DGMX9XARY4G.mp3",
+      "pubDate": "Mon, 18 Aug 2025 04:00:00 -0000",
+      "content:encoded": "<p class=\"text-node\">When traffic spikes, Neon’s serverless Postgres autoscales to meet demand, without all that extra ops work. Get the free plan at <a class=\"link\" href=\"https://neon.com\">https://neon.com</a></p><p class=\"text-node\"><br><a class=\"link\" href=\"https://twitch.tv/ThePrimeagen\">https://twitch.tv/ThePrimeagen</a> - I Stream 5 days a Week<br><a class=\"link\" href=\"https://twitter.com/terminaldotshop\">https://twitter.com/terminaldotshop</a> - Want to order coffee over SSH?<br>ssh <a class=\"link\" href=\"http://terminal.shop\">terminal.shop</a></p><p class=\"text-node\"><br>Become Backend Dev: <a class=\"link\" href=\"https://boot.dev/prime\">https://boot.dev/prime</a><br>(plus i make courses for them)<br>This is also the best way to support me is to support yourself becoming a better backend engineer.<br></p><p class=\"text-node\">Great News?  Want me to research and create video????: <a class=\"link\" href=\"https://www.reddit.com/r/ThePrimeagen\">https://www.reddit.com/r/ThePrimeagen</a><br>Kinesis Advantage 360: <a class=\"link\" href=\"https://bit.ly/Prime-Kinesis\">https://bit.ly/Prime-Kinesis</a><br></p><p class=\"text-node\"><br>00:00:00 - Intro<br>00:02:13 - neon.com #ad<br>00:03:23 - Why Functional Programming Failed?<br>00:10:20 - Erlang is Functional AND OOP<br>00:15:00 - The Ruby to Rust Pipeline<br>00:26:00 - Ginger Bill Rust Rant<br>00:29:53 - Are Macros Good or Evil?<br>00:43:30 - Printing in Rust VS Odin<br>00:48:00 - Mechanism Not Policy<br>00:57:45 - LSP Hater VS LSP Lover<br>01:04:20 - are Package Managers required?<br>01:21:10 - Advice to Future Language Creators</p>",
+      "content:encodedSnippet": "When traffic spikes, Neon’s serverless Postgres autoscales to meet demand, without all that extra ops work. Get the free plan at https://neon.com\n\nhttps://twitch.tv/ThePrimeagen - I Stream 5 days a Week\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\nBecome Backend Dev: https://boot.dev/prime\n(plus i make courses for them)\nThis is also the best way to support me is to support yourself becoming a better backend engineer.\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\nKinesis Advantage 360: https://bit.ly/Prime-Kinesis\n\n00:00:00 - Intro\n00:02:13 - neon.com #ad\n00:03:23 - Why Functional Programming Failed?\n00:10:20 - Erlang is Functional AND OOP\n00:15:00 - The Ruby to Rust Pipeline\n00:26:00 - Ginger Bill Rust Rant\n00:29:53 - Are Macros Good or Evil?\n00:43:30 - Printing in Rust VS Odin\n00:48:00 - Mechanism Not Policy\n00:57:45 - LSP Hater VS LSP Lover\n01:04:20 - are Package Managers required?\n01:21:10 - Advice to Future Language Creators",
+      "enclosure": {
+        "length": "60839079",
+        "type": "audio/mpeg",
+        "url": "https://episode.flightcast.com/01K2MBTS4GN7M20DGMX9XARY4G.mp3"
+      },
+      "content": "When traffic spikes, Neon’s serverless Postgres autoscales to meet demand, without all that extra ops work. Get the free plan at https://neon.com\n\n\nhttps://twitch.tv/ThePrimeagen - I Stream 5 days a Week\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\n\nBecome Backend Dev: https://boot.dev/prime\n(plus i make courses for them)\nThis is also the best way to support me is to support yourself becoming a better backend engineer.\n\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\nKinesis Advantage 360: https://bit.ly/Prime-Kinesis\n\n\n\n00:00:00 - Intro\n00:02:13 - neon.com #ad\n00:03:23 - Why Functional Programming Failed?\n00:10:20 - Erlang is Functional AND OOP\n00:15:00 - The Ruby to Rust Pipeline\n00:26:00 - Ginger Bill Rust Rant\n00:29:53 - Are Macros Good or Evil?\n00:43:30 - Printing in Rust VS Odin\n00:48:00 - Mechanism Not Policy\n00:57:45 - LSP Hater VS LSP Lover\n01:04:20 - are Package Managers required?\n01:21:10 - Advice to Future Language Creators",
+      "contentSnippet": "When traffic spikes, Neon’s serverless Postgres autoscales to meet demand, without all that extra ops work. Get the free plan at https://neon.com\n\n\nhttps://twitch.tv/ThePrimeagen - I Stream 5 days a Week\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\n\n\nBecome Backend Dev: https://boot.dev/prime\n(plus i make courses for them)\nThis is also the best way to support me is to support yourself becoming a better backend engineer.\n\n\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\nKinesis Advantage 360: https://bit.ly/Prime-Kinesis\n\n\n\n00:00:00 - Intro\n00:02:13 - neon.com #ad\n00:03:23 - Why Functional Programming Failed?\n00:10:20 - Erlang is Functional AND OOP\n00:15:00 - The Ruby to Rust Pipeline\n00:26:00 - Ginger Bill Rust Rant\n00:29:53 - Are Macros Good or Evil?\n00:43:30 - Printing in Rust VS Odin\n00:48:00 - Mechanism Not Policy\n00:57:45 - LSP Hater VS LSP Lover\n01:04:20 - are Package Managers required?\n01:21:10 - Advice to Future Language Creators",
+      "guid": "flightcast:01K2MBTS4GS4KHGD7SYXWRA5GQ",
+      "isoDate": "2025-08-18T04:00:00.000Z",
+      "itunes": {
+        "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
+        "episodeType": "full"
+      }
+    },
+    {
       "title": "The Evolution of Programming",
       "link": "https://episode.flightcast.com/01K2MBQ062GWSE3B96XCY2601H.mp3",
       "pubDate": "Sat, 16 Aug 2025 04:00:00 -0000",
@@ -418,28 +438,6 @@
       }
     },
     {
-      "title": "Cheat on Everything?",
-      "link": "https://episode.flightcast.com/01JV2PYG6Y6Y4NX74FFRC0GNWT.mp3",
-      "pubDate": "Mon, 12 May 2025 04:00:00 -0000",
-      "content:encoded": "<p>ssh terminal.shop</p>",
-      "content:encodedSnippet": "ssh terminal.shop",
-      "enclosure": {
-        "length": "41349258",
-        "type": "audio/mpeg",
-        "url": "https://episode.flightcast.com/01JV2PYG6Y6Y4NX74FFRC0GNWT.mp3"
-      },
-      "content": "ssh terminal.shop",
-      "contentSnippet": "ssh terminal.shop",
-      "guid": "flightcast:01JV2PYG6YFCS162P3ZA4ZJHT3",
-      "isoDate": "2025-05-12T04:00:00.000Z",
-      "itunes": {
-        "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
-        "episode": "5",
-        "season": "1",
-        "episodeType": "full"
-      }
-    },
-    {
       "title": "Making a Video Game GOOD!",
       "link": "https://episode.flightcast.com/01JV2JC5PD4PGJP1RS75CR9ZT8.mp3",
       "pubDate": "Mon, 12 May 2025 04:00:00 -0000",
@@ -458,6 +456,28 @@
         "author": "The Standup",
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
         "episode": "3",
+        "season": "1",
+        "episodeType": "full"
+      }
+    },
+    {
+      "title": "Cheat on Everything?",
+      "link": "https://episode.flightcast.com/01JV2PYG6Y6Y4NX74FFRC0GNWT.mp3",
+      "pubDate": "Mon, 12 May 2025 04:00:00 -0000",
+      "content:encoded": "<p>ssh terminal.shop</p>",
+      "content:encodedSnippet": "ssh terminal.shop",
+      "enclosure": {
+        "length": "41349258",
+        "type": "audio/mpeg",
+        "url": "https://episode.flightcast.com/01JV2PYG6Y6Y4NX74FFRC0GNWT.mp3"
+      },
+      "content": "ssh terminal.shop",
+      "contentSnippet": "ssh terminal.shop",
+      "guid": "flightcast:01JV2PYG6YFCS162P3ZA4ZJHT3",
+      "isoDate": "2025-05-12T04:00:00.000Z",
+      "itunes": {
+        "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
+        "episode": "5",
         "season": "1",
         "episodeType": "full"
       }
@@ -517,11 +537,11 @@
   },
   "title": "The Standup",
   "description": "ThePrimeagen and Teej host The Standup - a podcast where we talk about software, life, memes and more. It’s fun, it can be informative and sometimes Trash is also here. Joined by regular guests like Casey Muratori, Carson Gross and more!",
-  "pubDate": "Sat, 16 Aug 2025 04:00:00 -0000",
+  "pubDate": "Mon, 18 Aug 2025 04:00:00 -0000",
   "generator": "Flightcast RSS Feed Generator",
   "link": "https://rss.flightcast.com/pmgqiszts7kfhopzaq8el6yw",
   "language": "en-us",
-  "lastBuildDate": "Sat, 16 Aug 2025 04:00:00 -0000",
+  "lastBuildDate": "Mon, 18 Aug 2025 04:00:00 -0000",
   "docs": "https://rss.flightcast.com/pmgqiszts7kfhopzaq8el6yw",
   "itunes": {
     "owner": {
