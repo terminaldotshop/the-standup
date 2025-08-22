@@ -1,6 +1,28 @@
 {
   "items": [
     {
+      "title": "Why Making a Debugger is So Hard! (ft Ryan Fleury)",
+      "link": "https://episode.flightcast.com/01K39BEEYRSP3Q7195VR673SAZ.mp3",
+      "pubDate": "Fri, 22 Aug 2025 16:59:00 -0000",
+      "content:encoded": "<p class=\"text-node\">Ship Faster with Neon Postgres #ad<br>Neon comes with Branching, Schema Diff, and Instant Point-In-Time Recovery to help you ship fast and recover faster. Get the free plan at </p><p class=\"text-node\"><br><a class=\"link\" href=\"https://twitch.tv/ThePrimeagen\">https://twitch.tv/ThePrimeagen</a> - I Stream 5 days a Week<br><a class=\"link\" href=\"https://twitter.com/terminaldotshop\">https://twitter.com/terminaldotshop</a> - Want to order coffee over SSH?<br>ssh terminal.shop<br>Become Backend Dev: <a class=\"link\" href=\"https://boot.dev/prime\">https://boot.dev/prime</a><br>(plus i make courses for them)<br>This is also the best way to support me is to support yourself becoming a better backend engineer.<br>Great News?  Want me to research and create video????: <a class=\"link\" href=\"https://www.reddit.com/r/ThePrimeagen\">https://www.reddit.com/r/ThePrimeagen</a><br>Kinesis Advantage 360: <a class=\"link\" href=\"https://bit.ly/Prime-Kinesis\">https://bit.ly/Prime-Kinesis</a></p><p class=\"text-node\"><br>📍 Chapters:<br>00:00:00 Intro<br>00:02:10 Printf Debugging<br>00:10:20 RAD Debugger Origins<br>00:25:00 PDB (Program Database) Limit<br>00:27:27 RAD Linker<br>00:28:40 Working for Epic<br>00:32:13 What the hell is MUMPS<br>00:33:28 D Sucks<br>00:34:45 Oodle Adjacent<br>00:35:40 How do steps work?<br>00:42:50  INT 3 Instruction/Trap<br>00:46:20 Step count<br>00:47:50 Overwrite and replace<br>00:49:42 The desire for user level INT 3 handling<br>01:00:39 Alternative to User level INT 3<br>01:03:10 Chrome Debugger complaints<br>01:07:51 RAD Debug features<br>01:16:52 Compatible languages<br>01:18:41 Gabe Newell annoucement strategy<br>01:19:37 Outro 1<br>01:20:01 Cleverer than Stack pointers<br>01:22:55 Prime pees on stream<br>01:24:20 Faking addresses and the shadow stack<br>01:27:50 Data breakpoints<br>01:28:38 Prime shoots his shot<br>01:32:46 TLDR<br>01:34:28 Debugging in VM langs<br>01:35:00 PUBE G<br>01:36:28 Outro 2</p>",
+      "content:encodedSnippet": "Ship Faster with Neon Postgres #ad\nNeon comes with Branching, Schema Diff, and Instant Point-In-Time Recovery to help you ship fast and recover faster. Get the free plan at \n\nhttps://twitch.tv/ThePrimeagen - I Stream 5 days a Week\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\nBecome Backend Dev: https://boot.dev/prime\n(plus i make courses for them)\nThis is also the best way to support me is to support yourself becoming a better backend engineer.\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\nKinesis Advantage 360: https://bit.ly/Prime-Kinesis\n\n📍 Chapters:\n00:00:00 Intro\n00:02:10 Printf Debugging\n00:10:20 RAD Debugger Origins\n00:25:00 PDB (Program Database) Limit\n00:27:27 RAD Linker\n00:28:40 Working for Epic\n00:32:13 What the hell is MUMPS\n00:33:28 D Sucks\n00:34:45 Oodle Adjacent\n00:35:40 How do steps work?\n00:42:50  INT 3 Instruction/Trap\n00:46:20 Step count\n00:47:50 Overwrite and replace\n00:49:42 The desire for user level INT 3 handling\n01:00:39 Alternative to User level INT 3\n01:03:10 Chrome Debugger complaints\n01:07:51 RAD Debug features\n01:16:52 Compatible languages\n01:18:41 Gabe Newell annoucement strategy\n01:19:37 Outro 1\n01:20:01 Cleverer than Stack pointers\n01:22:55 Prime pees on stream\n01:24:20 Faking addresses and the shadow stack\n01:27:50 Data breakpoints\n01:28:38 Prime shoots his shot\n01:32:46 TLDR\n01:34:28 Debugging in VM langs\n01:35:00 PUBE G\n01:36:28 Outro 2",
+      "enclosure": {
+        "length": "70967275",
+        "type": "audio/mpeg",
+        "url": "https://episode.flightcast.com/01K39BEEYRSP3Q7195VR673SAZ.mp3"
+      },
+      "content": "Ship Faster with Neon Postgres #ad\nNeon comes with Branching, Schema Diff, and Instant Point-In-Time Recovery to help you ship fast and recover faster. Get the free plan at \n\n\nhttps://twitch.tv/ThePrimeagen - I Stream 5 days a Week\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\nBecome Backend Dev: https://boot.dev/prime\n(plus i make courses for them)\nThis is also the best way to support me is to support yourself becoming a better backend engineer.\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\nKinesis Advantage 360: https://bit.ly/Prime-Kinesis\n\n\n📍 Chapters:\n00:00:00 Intro\n00:02:10 Printf Debugging\n00:10:20 RAD Debugger Origins\n00:25:00 PDB (Program Database) Limit\n00:27:27 RAD Linker\n00:28:40 Working for Epic\n00:32:13 What the hell is MUMPS\n00:33:28 D Sucks\n00:34:45 Oodle Adjacent\n00:35:40 How do steps work?\n00:42:50  INT 3 Instruction/Trap\n00:46:20 Step count\n00:47:50 Overwrite and replace\n00:49:42 The desire for user level INT 3 handling\n01:00:39 Alternative to User level INT 3\n01:03:10 Chrome Debugger complaints\n01:07:51 RAD Debug features\n01:16:52 Compatible languages\n01:18:41 Gabe Newell annoucement strategy\n01:19:37 Outro 1\n01:20:01 Cleverer than Stack pointers\n01:22:55 Prime pees on stream\n01:24:20 Faking addresses and the shadow stack\n01:27:50 Data breakpoints\n01:28:38 Prime shoots his shot\n01:32:46 TLDR\n01:34:28 Debugging in VM langs\n01:35:00 PUBE G\n01:36:28 Outro 2",
+      "contentSnippet": "Ship Faster with Neon Postgres #ad\nNeon comes with Branching, Schema Diff, and Instant Point-In-Time Recovery to help you ship fast and recover faster. Get the free plan at \n\n\nhttps://twitch.tv/ThePrimeagen - I Stream 5 days a Week\nhttps://twitter.com/terminaldotshop - Want to order coffee over SSH?\nssh terminal.shop\nBecome Backend Dev: https://boot.dev/prime\n(plus i make courses for them)\nThis is also the best way to support me is to support yourself becoming a better backend engineer.\nGreat News?  Want me to research and create video????: https://www.reddit.com/r/ThePrimeagen\nKinesis Advantage 360: https://bit.ly/Prime-Kinesis\n\n\n📍 Chapters:\n00:00:00 Intro\n00:02:10 Printf Debugging\n00:10:20 RAD Debugger Origins\n00:25:00 PDB (Program Database) Limit\n00:27:27 RAD Linker\n00:28:40 Working for Epic\n00:32:13 What the hell is MUMPS\n00:33:28 D Sucks\n00:34:45 Oodle Adjacent\n00:35:40 How do steps work?\n00:42:50  INT 3 Instruction/Trap\n00:46:20 Step count\n00:47:50 Overwrite and replace\n00:49:42 The desire for user level INT 3 handling\n01:00:39 Alternative to User level INT 3\n01:03:10 Chrome Debugger complaints\n01:07:51 RAD Debug features\n01:16:52 Compatible languages\n01:18:41 Gabe Newell annoucement strategy\n01:19:37 Outro 1\n01:20:01 Cleverer than Stack pointers\n01:22:55 Prime pees on stream\n01:24:20 Faking addresses and the shadow stack\n01:27:50 Data breakpoints\n01:28:38 Prime shoots his shot\n01:32:46 TLDR\n01:34:28 Debugging in VM langs\n01:35:00 PUBE G\n01:36:28 Outro 2",
+      "guid": "flightcast:01K39BEEYRWM7R6A8PVG49HRBD",
+      "isoDate": "2025-08-22T16:59:00.000Z",
+      "itunes": {
+        "image": "https://assets.flightcast.com/V2Uploads/ibql3yufneslfscullre41ud/01K39BG8GNTKGM4A0XHP6Z6S6S/maxresdefault__8_.jpg",
+        "episode": "27",
+        "season": "1",
+        "episodeType": "full"
+      }
+    },
+    {
       "title": "2 Language Creators vs 2 Idiots",
       "link": "https://episode.flightcast.com/01K2MBTS4GN7M20DGMX9XARY4G.mp3",
       "pubDate": "Mon, 18 Aug 2025 04:00:00 -0000",
@@ -17,6 +39,8 @@
       "isoDate": "2025-08-18T04:00:00.000Z",
       "itunes": {
         "image": "https://assets.flightcast.com/workspaces/ibql3yufneslfscullre41ud/uploads/t2vvNI7xLFdztN6MOXVH0tWL-_twPEP3.png",
+        "episode": "26",
+        "season": "1",
         "episodeType": "full"
       }
     },
@@ -537,11 +561,11 @@
   },
   "title": "The Standup",
   "description": "ThePrimeagen and Teej host The Standup - a podcast where we talk about software, life, memes and more. It’s fun, it can be informative and sometimes Trash is also here. Joined by regular guests like Casey Muratori, Carson Gross and more!",
-  "pubDate": "Mon, 18 Aug 2025 04:00:00 -0000",
+  "pubDate": "Fri, 22 Aug 2025 16:59:00 -0000",
   "generator": "Flightcast RSS Feed Generator",
   "link": "https://rss.flightcast.com/pmgqiszts7kfhopzaq8el6yw",
   "language": "en-us",
-  "lastBuildDate": "Mon, 18 Aug 2025 04:00:00 -0000",
+  "lastBuildDate": "Fri, 22 Aug 2025 16:59:00 -0000",
   "docs": "https://rss.flightcast.com/pmgqiszts7kfhopzaq8el6yw",
   "itunes": {
     "owner": {
